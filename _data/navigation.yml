@@ -10,11 +10,16 @@
 main:
   - title: "Articles"
     url: /articles/
+    
+  - title: "Open sciences"
+    url: /opensciences/
+    
+  - title: "Projects"
+    url: /projects/
+  
+  - title: ""
 
 
     
   # - title: "CV"
   #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/

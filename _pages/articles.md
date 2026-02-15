@@ -1,5 +1,4 @@
 ---
-title: "Articles"
 permalink: /articles/
 author_profile: true
 output: github_document
@@ -8,7 +7,7 @@ output: github_document
 
 
 
-## Preprint
+## Preprints
 [Seck, F., O. Seydi, N.
 Moiroux, et al.](#cite-seckEcoepidemiologicalThresholdsMalaria2026) (2026).
 _Eco-Epidemiological Thresholds for Malaria Transmission in Multi-Species, Phenotypically
@@ -27,7 +26,7 @@ DOI: [10.1101/2025.07.23.665952](https://doi.org/10.1101%2F2025.07.23.665952). (
 on Sep. 24, 2025).
 
 
-## Published
+## Publications dans des revues / Peer-reviewed publications
 ### 2026 
 [Pooda, S. H., A. M. Bandaogo, P. A.
 Agboho, et al.](#cite-poodaImpactIvermectinbloodMeals2026) (2026). "Impact of
