@@ -24,13 +24,13 @@ repository               : "Nmoiroux/nmoiroux.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Nicolas Moiroux"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Medical Entomologist"
+  location         : "Dakar"
+  employer         : "IRD"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "nicolas.moiroux@ird.fr" 
 
   # Academic websites
   academia         : # URL
