@@ -25,16 +25,16 @@ to Mosquito Biting_. DOI:
 [10.32614/CRAN.package.ExpBites](https://doi.org/10.32614%2FCRAN.package.ExpBites).
 (Visited on Dec. 02, 2025).
 
-[Taconet, P., N. Moiroux, F. N. R. I.
-f. S. Development, et al.](#cite-taconetModisfastFastEfficient2025) (2025). _Modisfast:
-Fast and Efficient Access to MODIS Earth Observation Data_. DOI:
+[Taconet, P. and N.
+Moiroux](#cite-taconetModisfastFastEfficient2025) (2025). _Modisfast: Fast and Efficient
+Access to MODIS Earth Observation Data_. DOI:
 [10.32614/CRAN.package.modisfast](https://doi.org/10.32614%2FCRAN.package.modisfast).
 (Visited on Feb. 15, 2026).
 
 ## Codes & Data
 [ColombineBartholomee and N.
 Moiroux](#cite-colombinebartholomeeOpenaccessCodeUsed2025) (2025). _Open-Access Code Used
-to Model Parity Rate and Simulate the Basic Reproduction Number (R$_0$) of Arboviruses
+to Model Parity Rate and Simulate the Basic Reproduction Number (R0) of Arboviruses
 Transmitted by Aedes Albopictus in Montpellier, France_. Zenodo. DOI:
 [10.5281/zenodo.15854095](https://doi.org/10.5281%2Fzenodo.15854095). (Visited on Sep.
 16, 2025).
