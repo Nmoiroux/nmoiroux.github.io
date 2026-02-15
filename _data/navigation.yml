@@ -19,10 +19,6 @@ main:
   
   - title: "Social"
     url: /social/
-    
-  
 
-
-    
-  # - title: "CV"
-  #   url: /cv-json/
+  - title: "CV"
+    url: /cv/
