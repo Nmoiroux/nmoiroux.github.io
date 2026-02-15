@@ -8,8 +8,14 @@ Quelques ressources en lien avec la taxonomie des moustiques, leur identificatio
 
 ## Collection ARIM
 [ARIM](https://arim.ird.fr/) (arthropodes d'intérêt médical) est hébergée à Montpellier (France) et propose au public plus de 3000 espèces de divers groupes de vecteurs et nuisants (moustiques, phlébotomes, simulies, glossines, culicoides, poux, puces, tiques, punaise, acariens...). 
-Sur [Bluesky](arimcollection.bsky.social), nous proposons chaque semaine (ou presque), une planche photo macroscopique d'une espèce de moustique !
 
+ <script type="module" src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
+  <bsky-embed
+    username="arimcollection.bsky.social"
+    mode="dark"
+    limit="1">
+  </bsky-embed>
+  
 
 
 ## Clés d'identification / Identification keys
