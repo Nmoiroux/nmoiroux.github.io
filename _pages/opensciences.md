@@ -7,10 +7,11 @@ output: github_document
 
 
 ## R packages
-[Moiroux, N., C. Bartholomee, and P.
-Taconet](#cite-moirouxEcoXCorrPackageExplore2026) (2026). _ecoXCorr: An R Package to
-Explore Lagged Associations between Environmental Time Series and Ecological Responses_.
-(Visited on Feb. 10, 2026).
+[Moiroux, N., C. Bartholomée, and P.
+Taconet](#cite-moirouxEcoXCorrPackageLagged2026) (2026). _ecoXCorr: An R Package for
+Lagged Cross-Correlation Analysis of Environmental Time Series_. Zenodo. DOI:
+[10.5281/zenodo.18621989](https://doi.org/10.5281%2Fzenodo.18621989). (Visited on Feb.
+15, 2026).
 
 [Moiroux, N. and N.
 Rahola](#cite-moirouxInsectLabelRDesigningLabels2026) (2026). _InsectLabelR: Designing
@@ -20,7 +21,9 @@ Labels for Insects in Collection_. Zenodo. DOI:
 
 [Moiroux,
 N.](#cite-moirouxExpBitesAnalyzingHuman2025) (2025). _ExpBites: Analyzing Human Exposure
-to Mosquito Biting_. (Visited on Dec. 02, 2025).
+to Mosquito Biting_. DOI:
+[10.32614/CRAN.package.ExpBites](https://doi.org/10.32614%2FCRAN.package.ExpBites).
+(Visited on Dec. 02, 2025).
 
 [Taconet, P. and N.
 Moiroux](#cite-taconethal-04603903v1) (2024). _'modisfast' : Fast and Efficient Access to
