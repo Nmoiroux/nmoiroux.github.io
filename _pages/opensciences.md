@@ -25,10 +25,11 @@ to Mosquito Biting_. DOI:
 [10.32614/CRAN.package.ExpBites](https://doi.org/10.32614%2FCRAN.package.ExpBites).
 (Visited on Dec. 02, 2025).
 
-[Taconet, P. and N.
-Moiroux](#cite-taconethal-04603903v1) (2024). _'modisfast' : Fast and Efficient Access to
-MODIS Data with R_. git+https://github.com/ptaconet/modisfast.git. DOI:
+[Taconet, P., N. Moiroux, F. N. R. I.
+f. S. Development, et al.](#cite-taconetModisfastFastEfficient2025) (2025). _Modisfast:
+Fast and Efficient Access to MODIS Earth Observation Data_. DOI:
 [10.32614/CRAN.package.modisfast](https://doi.org/10.32614%2FCRAN.package.modisfast).
+(Visited on Feb. 15, 2026).
 
 ## Codes & Data
 [ColombineBartholomee and N.
