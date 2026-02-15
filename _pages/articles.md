@@ -2,6 +2,7 @@
 title: "Articles"
 permalink: /articles/
 author_profile: true
+output: github_document
 ---
 
 
@@ -9,7 +10,7 @@ author_profile: true
 
 ### 2026 
 <a name=bib-poodaImpactIvermectinbloodMeals2026></a>[Pooda, S. H., A. M. Bandaogo, P. A.
-Agboho, et al.](#cite-poodaImpactIvermectinbloodMeals2026) (2026NA). "Impact of
+Agboho, et al.](#cite-poodaImpactIvermectinbloodMeals2026) (2026). "Impact of
 Ivermectin-Blood Meals from Treated Cattle on Mortality and Reproductive Parameters of
 Aedes Aegypti (Diptera: Culicidae) for Vector Control". In: _Journal of Medical
 Entomology_ 63.1, p. tjag005. ISSN: 1938-2928. DOI:
