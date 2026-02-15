@@ -6,8 +6,29 @@ output: github_document
 ---
 
 
-## Articles
 
+/n
+## Preprint
+[Seck, F., O. Seydi, N.
+Moiroux, et al.](#cite-seckEcoepidemiologicalThresholdsMalaria2026) (2026).
+_Eco-Epidemiological Thresholds for Malaria Transmission in Multi-Species, Phenotypically
+Structured Mosquito Populations_. (Visited on Jan. 14, 2026).
+
+[Dongmo, F. J., A. Porciani, N.
+Moiroux, et al.](#cite-dongmoModelingImpactIvermectinbased2025) (2025). _Modeling the
+Impact of Ivermectin-Based Optimal Strategies on Malaria Control: The Role of
+Formulation, Coverage, and Mosquitocidal Efficacy Timing_. (Visited on Nov. 05, 2025).
+
+[Zela, L., S. H. Pooda, A. Porciani, et
+al.](#cite-zelaSelectionLeadLongActing2025) (2025). _Selection of a Lead Long-Acting
+Formulation of Ivermectin to Target Major Malaria Vectors in Western Africa: Evaluation
+of Pharmacokinetics and Mosquitocidal Efficacy in Cattle under Laboratory Conditions_.
+DOI: [10.1101/2025.07.23.665952](https://doi.org/10.1101%2F2025.07.23.665952). (Visited
+on Sep. 24, 2025).
+
+
+
+## Published
 ### 2026 
 [Pooda, S. H., A. M. Bandaogo, P. A.
 Agboho, et al.](#cite-poodaImpactIvermectinbloodMeals2026) (2026). "Impact of
