@@ -11,9 +11,7 @@ Les packages R ont été développés pour répondre à des besoins méthodologi
 Certain de ces packages ont des applications web associées permettant soit d'utiliser les fonctionalités du package sans connaissance du logiciel et du language R soit de démontrer les capabilité du package. 
 
 [ExpBites App](https://nicolas-moiroux.shinyapps.io/ExpBites/)
-
 [ecoXCorr App](https://nicolas-moiroux.shinyapps.io/ecoXCorrApp/)
-
 [InsectLabelR App](https://nicolas-moiroux.shinyapps.io/InsectLabelR/)
 
 
