@@ -4,15 +4,10 @@ title: "Open sciences"
 output: github_document
 ---
 
-Cette page rassemble les ressources mises à disposition dans une démarche de science ouverte. Vous y trouverez des packages R ainsi que des jeux de données et des codes développés dans le cadre de mes travaux de recherche.
+Cette page rassemble les ressources mises à disposition dans une démarche de science ouverte. S'y trouvent des packages R, des jeux de données et des codes développés dans le cadre de travaux de recherche.
 
-Les packages R ont été développés pour répondre à des besoins méthodologiques concrets. Ils couvrent différents aspects de l’analyse et de la gestion de données en écologie et entomologie : **ExpBites** pour l’analyse de données de terrain liées aux interactions comportementale humain-vecteur, **ecoXCorr** pour l’étude des relations décalées dans le temps entre variables environnementales et biologiques, **modisfast** (développé par Paul Taconet) pour l’accès et le téléchargement rapide de données environnementales issues de la télédétection, et **InsectLabelR** pour la génération automatisée d’étiquettes destinées aux collections entomologiques.
+Les packages R ont été développés pour répondre à des besoins méthodologiques concrets. Ils couvrent différents aspects de l’analyse et de la gestion de données en écologie et entomologie : **ExpBites** pour l’analyse de données de terrain liées aux interactions comportementale humain-vecteur, **ecoXCorr** pour l’étude des relations décalées dans le temps entre variables environnementales et biologiques, **modisfast** (développé par Paul Taconet) pour l’accès et le téléchargement rapide de données environnementales issues de la télédétection, et **InsectLabelR** pour la génération automatisée d’étiquettes destinées aux collections entomologiques. Certain de ces packages ont des applications web associées permettant soit d'utiliser les fonctionalités du package sans connaissance du logiciel et du langage R soit d'illustrer les capacités du package. 
 
-Certain de ces packages ont des applications web associées permettant soit d'utiliser les fonctionalités du package sans connaissance du logiciel et du language R soit de démontrer les capabilité du package. 
-
-[ExpBites App](https://nicolas-moiroux.shinyapps.io/ExpBites/)
-[ecoXCorr App](https://nicolas-moiroux.shinyapps.io/ecoXCorrApp/)
-[InsectLabelR App](https://nicolas-moiroux.shinyapps.io/InsectLabelR/)
 
 
 
@@ -40,6 +35,14 @@ Moiroux](#cite-taconetModisfastFastEfficient2025) (2025). _Modisfast: Fast and E
 Access to MODIS Earth Observation Data_. DOI:
 [10.32614/CRAN.package.modisfast](https://doi.org/10.32614%2FCRAN.package.modisfast).
 (Visited on Feb. 15, 2026).
+
+## Apps
+[ExpBites App](https://nicolas-moiroux.shinyapps.io/ExpBites/) :
+![](../images/ExpBites.png) \\n
+[ecoXCorr App](https://nicolas-moiroux.shinyapps.io/ecoXCorrApp/) :
+![](../images/ecoXCorr.png) \\n
+[InsectLabelR App](https://nicolas-moiroux.shinyapps.io/InsectLabelR/) :
+![](../images/InsectLabelR.png)
 
 ## Codes & Data
 [ColombineBartholomee and N.
