@@ -7,7 +7,7 @@ output: github_document
 
 
 
-/n
+
 ## Preprint
 [Seck, F., O. Seydi, N.
 Moiroux, et al.](#cite-seckEcoepidemiologicalThresholdsMalaria2026) (2026).
@@ -25,7 +25,6 @@ Formulation of Ivermectin to Target Major Malaria Vectors in Western Africa: Eva
 of Pharmacokinetics and Mosquitocidal Efficacy in Cattle under Laboratory Conditions_.
 DOI: [10.1101/2025.07.23.665952](https://doi.org/10.1101%2F2025.07.23.665952). (Visited
 on Sep. 24, 2025).
-
 
 
 ## Published
