@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: "A propos"
 author_profile: true
 redirect_from: 
   - /about/
