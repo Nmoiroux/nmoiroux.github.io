@@ -373,39 +373,23 @@ DOI: [10.1093/infdis/jit012](https://doi.org/10.1093%2Finfdis%2Fjit012). PMID:
 ### 2012 
 [Boussari, O., N. Moiroux, J. Iwaz, et
 al.](#cite-boussariUseMixtureStatistical2012a) (2012). "Use of a Mixture Statistical
-Model in Studying Malaria Vectors Density". In: _PLoS One_ 7.11. Boussari, Olayide\
-Moiroux, Nicolas\ Iwaz, Jean\ Djenontin, Armel\ Bio-Bangana, Sahabi\ Corbel, Vincent\
-Fonton, Noel\ Ecochard, Rene\ PLoS One. 2012;7(11):e50452. doi:
-10.1371/journal.pone.0050452. Epub 2012 Nov 21. \par eng \par Research Support, Non-U.S.
-Gov't \par The following values have no corresponding Zotero field:\ Author Address:
-International Chair in Mathematical Physics and Applications, Universite d'Abomey-Calavi,
-Abomey-Calavi, Benin, France. olayide.boussari@chu-lyon.fr\ OD - 2012/11/28\ PM - PMCID,
-p. e50452. ISSN: 1932-6203 (Electronic) 1932-6203 (Linking). DOI:
+Model in Studying Malaria Vectors Density". In: _PLoS One_ 7.11, p. e50452. ISSN:
+1932-6203 (Electronic) 1932-6203 (Linking). DOI:
 [10.1371/journal.pone.0050452](https://doi.org/10.1371%2Fjournal.pone.0050452). PMID:
 [23185626](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&cmd=prlinks&retmode=ref&id=23185626).
 
 [Corbel, V., M. Akogbeto, G. B.
 Damien, et al.](#cite-corbelCombinationMalariaVector2012) (2012). "Combination of Malaria
 Vector Control Interventions in Pyrethroid Resistance Area in Benin: A Cluster Randomised
-Controlled Trial". In: _Lancet Infect Dis_ 12.8. Aug \par Corbel, Vincent\ Akogbeto,
-Martin\ Damien, Georgia B\ Djenontin, Armel\ Chandre, Fabrice\ Rogier, Christophe\
-Moiroux, Nicolas\ Chabi, Joseph\ Banganna, Bio\ Padonou, Gil G\ Henry, Marie-Claire\
-United States\ The Lancet infectious diseases\ Lancet Infect Dis. 2012 Aug;12(8):617-26.
-Epub 2012 Jun 7. \par eng \par The following values have no corresponding Zotero field:\
-Author Address: Institut de Recherche pour le Developpement, Maladies Infectieuses et
-Vecteurs, Ecologie, Genetique, Evolution et Controle (IRD 224-CNRS 5290 UM1-UM2),
-Cotonou, Benin, and Montpellier, France; Centre de Recherches Entomologiques de Cotonou,
-Cotonou, Benin.\ OD - 2012/06/12\ PM - PMCID, pp. 617-26. ISSN: 1474-4457 (Electronic)
+Controlled Trial". In: _Lancet Infect Dis_ 12.8, pp. 617-26. ISSN: 1474-4457 (Electronic)
 1473-3099 (Linking). DOI:
 [10.1016/S1473-3099(12)70081-6](https://doi.org/10.1016%2FS1473-3099%2812%2970081-6).
 
 [Elanga Ndille, E., S. Doucoure, G.
 Damien, et al.](#cite-elangandilleFirstAttemptValidate2012) (2012). "First Attempt To
 Validate Human IgG Antibody Response to Nterm-34kDa Salivary Peptide as Biomarker for
-Evaluating Exposure to Aedes Aegypti Bites". In: _PLoS Negl Trop Dis_ 6.11.
-doi:10.1371/journal.pntd.0001905 \par The following values have no corresponding Zotero
-field:\ PM - PMCID, p. e1905. DOI:
-[10.1371/journal.pntd.0001905](https://doi.org/10.1371%2Fjournal.pntd.0001905).
+Evaluating Exposure to Aedes Aegypti Bites". In: _PLoS Negl Trop Dis_ 6.11, p. e1905.
+DOI: [10.1371/journal.pntd.0001905](https://doi.org/10.1371%2Fjournal.pntd.0001905).
 
 [Moiroux, N., O. Boussari, A. Djènontin,
 et al.](#cite-moirouxDrySeasonDeterminants2012) (2012). "Dry Season Determinants of
@@ -417,21 +401,8 @@ field:\ PM - PMCID, p. e30558. DOI:
 [Moiroux, N., M. B. Gomez, C.
 Pennetier, et al.](#cite-moirouxChangesAnophelesFunestus2012) (2012). "Changes in
 Anopheles Funestus Biting Behavior Following Universal Coverage of Long-Lasting
-Insecticidal Nets in Benin". In: _J Infect Dis_ 206.10. eng \par Eng \par Moiroux,
-Nicolas\ Gomez, Marinely B\ Pennetier, Cedric\ Elanga, Emmanuel\ Djenontin, Armel\
-Chandre, Fabrice\ Djegbe, Innocent\ Guis, Helene\ Corbel, Vincent\ United States\ The
-Journal of infectious diseases\ J Infect Dis. 2012 Nov;206(10):1622-9. doi:
-10.1093/infdis/jis565. Epub 2012 Sep 10. \par Moiroux, Nicolas\ Gomez, Marinely B\
-Pennetier, Cedric\ Elanga, Emmanuel\ Djenontin, Armel\ Chandre, Fabrice\ Djegbe,
-Innocent\ Guis, Helene\ Corbel, Vincent\ Journal article\ The Journal of infectious
-diseases\ J Infect Dis. 2012 Sep 10. \par Nov \par Sep 10 \par September 10, 2012 \par
-The following values have no corresponding Zotero field:\ Author Address: MIVEGEC (IRD
-224-CNRS 5290-UM1-UM2), Institut de Recherche pour le Developpement, Montpellier,
-France.\ OD - 2012/09/12\ PM - PMCID \par The following values have no corresponding
-Zotero field:\ Author Address: MIVEGEC (IRD 224-CNRS 5290-UM1-UM2), Institut de Recherche
-pour le Developpement (IRD), BP64501, 34394 Montpellier, France.\ OD - 2012/09/12\ PM -
-PMCID \par The following values have no corresponding Zotero field:\ PM - PMCID, pp.
-1622-9. ISSN: 1537-6613 (Electronic) 0022-1899 (Linking). DOI:
+Insecticidal Nets in Benin". In: _J Infect Dis_ 206.10, pp. 1622-9. ISSN: 1537-6613
+(Electronic) 0022-1899 (Linking). DOI:
 [10.1093/infdis/jis565](https://doi.org/10.1093%2Finfdis%2Fjis565).
 
 [Sandeu, M. M., A. Moussiliou, N.
@@ -464,16 +435,13 @@ Liverpool School of Tropical Medicine, Pembroke Place, Liverpool, UK, L3 5QA.\ O
 Moiroux, et al.](#cite-djenontinCulicidaeDiversityMalaria2010) (2010). "Culicidae
 Diversity, Malaria Transmission and Insecticide Resistance Alleles in Malaria Vectors in
 Ouidah-Kpomasse-Tori District from Benin (West Africa): A Pre-Intervention Study". In:
-_Parasit Vectors_ 3.1. Eng \par Journal article\ Parasites & vectors\ Parasit Vectors.
-2010 Sep 6;3(1):83. \par Sep 6 \par The following values have no corresponding Zotero
-field:\ OD - 2010/09/08\ PM - PMCID, p. 83. ISSN: 1756-3305 (Electronic) 1756-3305
-(Linking). DOI: [10.1186/1756-3305-3-83](https://doi.org/10.1186%2F1756-3305-3-83).
+_Parasit Vectors_ 3.1, p. 83. ISSN: 1756-3305 (Electronic) 1756-3305 (Linking). DOI:
+[10.1186/1756-3305-3-83](https://doi.org/10.1186%2F1756-3305-3-83).
 
 [Yadouleton, A. W., G. Padonou,
 A. Asidi, et al.](#cite-yadouletonInsecticideResistanceStatus2010) (2010). "Insecticide
-Resistance Status in Anopheles Gambiae in Southern Benin". In: _Malar J_ 9.1. Eng \par
-Journal article\ Malaria journal\ Malar J. 2010 Mar 24;9(1):83. \par Mar 24 \par The
-following values have no corresponding Zotero field:\ OD - 2010/03/26\ PM - PMCID, p. 83.
-ISSN: 1475-2875 (Electronic) 1475-2875 (Linking). DOI:
+Resistance Status in Anopheles Gambiae in Southern Benin". In: _Malar J_ 9.1. The
+following values have no corresponding Zotero field:\ OD - 2010/03/26\ PM - PMCID\, p.
+83. ISSN: 1475-2875 (Electronic) 1475-2875 (Linking). DOI:
 [10.1186/1475-2875-9-83](https://doi.org/10.1186%2F1475-2875-9-83).
 
