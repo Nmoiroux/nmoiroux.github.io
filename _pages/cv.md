@@ -5,7 +5,6 @@ output: github_document
 ---
 
 ## Formation
----
 * HDR, Université de Monpellier, France, 2021.
 * Doctorat Biologie et Santé. Université Montpellier 2, France, 2012.
 * Master Ecologie - spécialité Aménagement du Territoire et Télédétection. Université Paul Sabatier Toulouse 3, France, 2006.
@@ -13,7 +12,6 @@ output: github_document
 * DUT Génie Biologique option Génie de l'Environnement. IUT de Thionville, Université Paul Verlaine, Metz, France, 2002.
 
 ## Postes et affectations
----
 * Chargé de Recherche Classe Normale (2015-..) IRD, UMR MiVEGEC.
   * Dakar, Sénégal (2024-..), en accueil à l'Institut Pasteur de Dakar. 
   * Montpellier, France (2020-2024), Centre IRD.
@@ -21,17 +19,14 @@ output: github_document
   * Montpellier, France (2015), Centre IRD.
 
 ## Animation et Gestion de la Recherche
----
 * Animateur de l’équipe Vector Control Group (VCG), MIVEGEC – (2021-2026)
 * Directeur Adjoint, représentant MIVEGEC, du LMI LAMIVECT (Laboratoire Mixte International sur les maladies à vecteurs en Afrique de l’Ouest) – (2017-2022)
 
 ## Expertise
----
 * Expert OMS (2016-2020) - WHO collaborating center FRA-72 (Pesticides en Santé publique)
 * Membre du Réseau Anopheles Biology & Control (ABC)
 
 ## Directions de thèses
----
 AHOUANGBENON Guenole Joseph, Doctorat Science de la Vie, Université Cheikh Anta Diop. 2025-2028. Effets des changements globaux sur la diversité des moustiques et des moustiques vecteurs de pathogènes en Afrique de l'Ouest. (Directeur)
 
 BARTHOLOMEE Colombine, Doctorat Ecologie, Université de Montpellier. 2022-2025. Soutenue 12/2025. Impact des infrastructures vertes sur la dynamique d’Aedes albopictus et la transmission d’arbovirus en milieu urbain. (Directeur)
