@@ -178,13 +178,6 @@ Meteorological Data in Diébougou Health District, Burkina Faso, 2016-2017". In:
 _Scientific Reports_ 11.1, p. 20027. ISSN: 2045-2322. DOI:
 [10.1038/s41598-021-99457-9](https://doi.org/10.1038%2Fs41598-021-99457-9).
 
-[Bationo, C., J. Gaudart, R.
-Dabire, et al.](#cite-bationoUtilisationMethodesDetection2021a) (2021). "Utilisation de
-méthodes de détection de hotspots et de modélisation temporelle en géo-épidémiologie~:
-application au paludisme". In: _Revue d'Épidémiologie et de Santé Publique_. SI: 69/S1 -
-EPICLIN 2021 69, pp. S20-S21. ISSN: 0398-7620. DOI:
-[10.1016/j.respe.2021.04.033](https://doi.org/10.1016%2Fj.respe.2021.04.033).
-
 [Clegban, C. Y., S. Camara, A. A. Koffi,
 et al.](#cite-clegbanEvaluationYahePanda2021) (2021). "Evaluation of Yahe® and Panda® 2.0
 Long-Lasting Insecticidal Nets against Wild Pyrethroid-Resistant Anopheles Gambiae s.l.
@@ -355,19 +348,14 @@ Anopheles Melas in a Sympatry Area of Benin". In: _Acta tropica_. ISSN: 1873-625
 [Moiroux, N., A. Bio-Bangana, A. Djenontin,
 et al.](#cite-moirouxModellingRiskBeing2013) (2013). "Modelling the Risk of Being Bitten
 by Malaria Vectors in a Vector Control Area in Southern Benin, West Africa." In: _Parasit
-Vectors_ 6.1. The following values have no corresponding Zotero field:\ PM - PMCID\, p.
-71. ISSN: 1756-3305. DOI:
+Vectors_ 6.1, p. 71. ISSN: 1756-3305. DOI:
 [10.1186/1756-3305-6-71](https://doi.org/10.1186%2F1756-3305-6-71).
 
 [Moiroux, N., C. Pennetier, and V.
 Corbel](#cite-moirouxBehavioralAdaptationMalaria2013) (2013). "Behavioral Adaptation of
-Malaria Vectors to LLINs: A Reply". In: _The Journal of Infectious Diseases_ 207.7. Apr
-\par eng \par Moiroux, Nicolas\ Pennetier, Cedric\ Corbel, Vincent\ J Infect Dis. 2013
-Apr;207(7):1184-5. doi: 10.1093/infdis/jit012. Epub 2013 Jan 10. \par The following
-values have no corresponding Zotero field:\ Author Address: MIVEGEC (IRD 224-CNRS
-5290-UM1-UM2), Institut de Recherche pour le Developpement, Montpellier, France.\ OD -
-2013/01/12\ PM - PMCID, pp. 1184-5. ISSN: 1537-6613 (Electronic) 0022-1899 (Linking).
-DOI: [10.1093/infdis/jit012](https://doi.org/10.1093%2Finfdis%2Fjit012). PMID:
+Malaria Vectors to LLINs: A Reply". In: _The Journal of Infectious Diseases_ 207.7, pp.
+1184-5. ISSN: 1537-6613 (Electronic) 0022-1899 (Linking). DOI:
+[10.1093/infdis/jit012](https://doi.org/10.1093%2Finfdis%2Fjit012). PMID:
 [23307934](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&cmd=prlinks&retmode=ref&id=23307934).
 
 ### 2012 
@@ -393,9 +381,7 @@ DOI: [10.1371/journal.pntd.0001905](https://doi.org/10.1371%2Fjournal.pntd.00019
 
 [Moiroux, N., O. Boussari, A. Djènontin,
 et al.](#cite-moirouxDrySeasonDeterminants2012) (2012). "Dry Season Determinants of
-Malaria Disease and Net Use in Benin, West Africa". In: _PLoS One_ 7.1.
-doi:10.1371/journal.pone.0030558 \par The following values have no corresponding Zotero
-field:\ PM - PMCID, p. e30558. DOI:
+Malaria Disease and Net Use in Benin, West Africa". In: _PLoS One_ 7.1, p. e30558. DOI:
 [10.1371/journal.pone.0030558](https://doi.org/10.1371%2Fjournal.pone.0030558).
 
 [Moiroux, N., M. B. Gomez, C.
@@ -408,13 +394,8 @@ Insecticidal Nets in Benin". In: _J Infect Dis_ 206.10, pp. 1622-9. ISSN: 1537-6
 [Sandeu, M. M., A. Moussiliou, N.
 Moiroux, et al.](#cite-sandeuOptimizedPanspeciesSpeciation2012) (2012). "Optimized
 Pan-species and Speciation Duplex Real-Time PCR Assays for Plasmodium Parasites Detection
-in Malaria Vectors". In: _PLoS One_ 7.12. eng \par Research Support, Non-U.S. Gov't \par
-Sandeu, Maurice Marcel\ Moussiliou, Azizath\ Moiroux, Nicolas\ Padonou, Gilles G\
-Massougbodji, Achille\ Corbel, Vincent\ Ndam, Nicaise Tuikue\ PLoS One.
-2012;7(12):e52719. doi: 10.1371/journal.pone.0052719. Epub 2012 Dec 28. \par The
-following values have no corresponding Zotero field:\ Author Address: Centre de Recherche
-Entomologique de Cotonou (CREC), Universite d'Abomey-Calavi, Cotonou, Benin.\ OD -
-2013/01/04\ PM - PMCID, p. e52719. ISSN: 1932-6203 (Electronic) 1932-6203 (Linking). DOI:
+in Malaria Vectors". In: _PLoS One_ 7.12, p. e52719. ISSN: 1932-6203 (Electronic)
+1932-6203 (Linking). DOI:
 [10.1371/journal.pone.0052719](https://doi.org/10.1371%2Fjournal.pone.0052719). PMID:
 [23285168](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&cmd=prlinks&retmode=ref&id=23285168).
 
@@ -422,13 +403,8 @@ Entomologique de Cotonou (CREC), Universite d'Abomey-Calavi, Cotonou, Benin.\ OD
 [Ranson, H., R. N'Guessan, J.
 Lines, et al.](#cite-ransonPyrethroidResistanceAfrican2011) (2011). "Pyrethroid
 Resistance in African Anopheline Mosquitoes: What Are the Implications for Malaria
-Control?" In: _Trends Parasitol_ 27.2. eng \par Feb \par Ranson, Hilary\ N'guessan,
-Raphael\ Lines, Jonathan\ Moiroux, Nicolas\ Nkuni, Zinga\ Corbel, Vincent\ England\
-Trends in parasitology\ Trends Parasitol. 2011 Feb;27(2):91-8. Epub 2010 Sep 16. \par The
-following values have no corresponding Zotero field:\ Author Address: Vector Group,
-Liverpool School of Tropical Medicine, Pembroke Place, Liverpool, UK, L3 5QA.\ OD -
-2010/09/17\ PM - PMCID, pp. 91-8. ISSN: 1471-5007 (Electronic) 1471-4922 (Linking). DOI:
-[10.1016/j.pt.2010.08.004](https://doi.org/10.1016%2Fj.pt.2010.08.004).
+Control?" In: _Trends Parasitol_ 27.2, pp. 91-8. ISSN: 1471-5007 (Electronic) 1471-4922
+(Linking). DOI: [10.1016/j.pt.2010.08.004](https://doi.org/10.1016%2Fj.pt.2010.08.004).
 
 ### 2010 
 [Djenontin, A., S. Bio-Bangana, N.
@@ -440,8 +416,7 @@ _Parasit Vectors_ 3.1, p. 83. ISSN: 1756-3305 (Electronic) 1756-3305 (Linking). 
 
 [Yadouleton, A. W., G. Padonou,
 A. Asidi, et al.](#cite-yadouletonInsecticideResistanceStatus2010) (2010). "Insecticide
-Resistance Status in Anopheles Gambiae in Southern Benin". In: _Malar J_ 9.1. The
-following values have no corresponding Zotero field:\ OD - 2010/03/26\ PM - PMCID\, p.
-83. ISSN: 1475-2875 (Electronic) 1475-2875 (Linking). DOI:
+Resistance Status in Anopheles Gambiae in Southern Benin". In: _Malar J_ 9.1, p. 83.
+ISSN: 1475-2875 (Electronic) 1475-2875 (Linking). DOI:
 [10.1186/1475-2875-9-83](https://doi.org/10.1186%2F1475-2875-9-83).
 
