@@ -34,13 +34,13 @@ Access to MODIS Earth Observation Data_. DOI:
 
 ## Apps
 ### [ExpBites App](https://nicolas-moiroux.shinyapps.io/ExpBites/) :
-![](../images/ExpBites.png)
+<iframe height="600" width="100%" frameborder="no" src="https://nicolas-moiroux.shinyapps.io/ExpBites/"> </iframe>
 
 ### [ecoXCorr App](https://nicolas-moiroux.shinyapps.io/ecoXCorrApp/) :
-![](../images/ecoXCorr.png)
+<iframe height="600" width="100%" frameborder="no" src="https://nicolas-moiroux.shinyapps.io/ecoXCorrApp/"> </iframe>
 
 ### [InsectLabelR App](https://nicolas-moiroux.shinyapps.io/InsectLabelR/) :
-![](../images/InsectLabelR.png) 
+<iframe height="600" width="100%" frameborder="no" src="https://nicolas-moiroux.shinyapps.io/InsectLabelR/"> </iframe>
 
 ## Codes & Data
 [ColombineBartholomee and N.

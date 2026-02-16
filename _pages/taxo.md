@@ -37,7 +37,7 @@ Anopheles Femelles (Diptera : Culicidae) d'Afrique Sub-Saharienne_. DOI:
 ## Outils / Tools
 
 [InsectLabelR app](https://nicolas-moiroux.shinyapps.io/InsectLabelR/): l'application Web, associée au package R éponyme (*Cf infra*) pour la génération automatisée d’étiquettes destinées aux collections entomologiques.
-![](../images/InsectLabelR.png)
+<iframe height="600" width="100%" frameborder="no" src="https://nicolas-moiroux.shinyapps.io/InsectLabelR/"> </iframe>
 
 [Moiroux, N. and N.
 Rahola](#cite-moirouxInsectLabelRDesigningLabels2026) (2026). _InsectLabelR: Designing
