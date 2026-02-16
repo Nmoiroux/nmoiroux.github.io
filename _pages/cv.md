@@ -1,5 +1,4 @@
 ---
-layout: archive
 permalink: /cv/
 output: github_document
 ---
