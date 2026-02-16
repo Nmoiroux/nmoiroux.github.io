@@ -1,4 +1,5 @@
 ---
+Title:""
 permalink: /cv/
 output: github_document
 ---
@@ -31,7 +32,7 @@ output: github_document
 
 ## Directions de thèses
 ---
-AHOUANDJENON Guenole Joseph, Doctorat Science de la Vie, Université Cheikh Anta Diop. 2025-2028. Effets des changements globaux sur la diversité des moustiques et des moustiques vecteurs de pathogènes en Afrique de l'Ouest. (Directeur)
+AHOUANGBENON Guenole Joseph, Doctorat Science de la Vie, Université Cheikh Anta Diop. 2025-2028. Effets des changements globaux sur la diversité des moustiques et des moustiques vecteurs de pathogènes en Afrique de l'Ouest. (Directeur)
 
 BARTHOLOMEE Colombine, Doctorat Ecologie, Université de Montpellier. 2022-2025. Soutenue 12/2025. Impact des infrastructures vertes sur la dynamique d’Aedes albopictus et la transmission d’arbovirus en milieu urbain. (Directeur)
 
