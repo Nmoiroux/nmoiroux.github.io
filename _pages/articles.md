@@ -17,7 +17,7 @@ Structured Mosquito Populations_.
 [Dongmo, F. J., A. Porciani, N.
 Moiroux, et al.](#cite-dongmoModelingImpactIvermectinbased2025) (2025). _Modeling the
 Impact of Ivermectin-Based Optimal Strategies on Malaria Control: The Role of
-Formulation, Coverage, and Mosquitocidal Efficacy Timing_.
+Formulation, Coverage, and Mosquitocidal Efficacy Timing_. working paper or preprint.
 
 [Zela, L., S. H. Pooda, A. Porciani, et
 al.](#cite-zelaSelectionLeadLongActing2025) (2025). _Selection of a Lead Long-Acting
@@ -354,51 +354,95 @@ Anopheles Melas in a Sympatry Area of Benin". In: _Acta tropica_. ISSN: 1873-625
 [Moiroux, N., A. Bio-Bangana, A. Djenontin,
 et al.](#cite-moirouxModellingRiskBeing2013) (2013). "Modelling the Risk of Being Bitten
 by Malaria Vectors in a Vector Control Area in Southern Benin, West Africa." In: _Parasit
-Vectors_ 6.1, p. 71. ISSN: 1756-3305.
+Vectors_ 6.1. The following values have no corresponding Zotero field:\ PM - PMCID\, p.
+71. ISSN: 1756-3305. DOI:
+[10.1186/1756-3305-6-71](https://doi.org/10.1186%2F1756-3305-6-71).
 
 [Moiroux, N., C. Pennetier, and V.
 Corbel](#cite-moirouxBehavioralAdaptationMalaria2013) (2013). "Behavioral Adaptation of
-Malaria Vectors to LLINs: A Reply". In: _The Journal of Infectious Diseases_ 207.7, pp.
-1184-5. ISSN: 1537-6613 (Electronic) 0022-1899 (Linking). DOI:
-[10.1093/infdis/jit012](https://doi.org/10.1093%2Finfdis%2Fjit012). PMID:
+Malaria Vectors to LLINs: A Reply". In: _The Journal of Infectious Diseases_ 207.7. Apr
+\par eng \par Moiroux, Nicolas\ Pennetier, Cedric\ Corbel, Vincent\ J Infect Dis. 2013
+Apr;207(7):1184-5. doi: 10.1093/infdis/jit012. Epub 2013 Jan 10. \par The following
+values have no corresponding Zotero field:\ Author Address: MIVEGEC (IRD 224-CNRS
+5290-UM1-UM2), Institut de Recherche pour le Developpement, Montpellier, France.\ OD -
+2013/01/12\ PM - PMCID, pp. 1184-5. ISSN: 1537-6613 (Electronic) 0022-1899 (Linking).
+DOI: [10.1093/infdis/jit012](https://doi.org/10.1093%2Finfdis%2Fjit012). PMID:
 [23307934](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&cmd=prlinks&retmode=ref&id=23307934).
 
 ### 2012 
 [Boussari, O., N. Moiroux, J. Iwaz, et
 al.](#cite-boussariUseMixtureStatistical2012a) (2012). "Use of a Mixture Statistical
-Model in Studying Malaria Vectors Density". In: _PLoS One_ 7.11, p. e50452. ISSN:
-1932-6203 (Electronic) 1932-6203 (Linking). DOI:
+Model in Studying Malaria Vectors Density". In: _PLoS One_ 7.11. Boussari, Olayide\
+Moiroux, Nicolas\ Iwaz, Jean\ Djenontin, Armel\ Bio-Bangana, Sahabi\ Corbel, Vincent\
+Fonton, Noel\ Ecochard, Rene\ PLoS One. 2012;7(11):e50452. doi:
+10.1371/journal.pone.0050452. Epub 2012 Nov 21. \par eng \par Research Support, Non-U.S.
+Gov't \par The following values have no corresponding Zotero field:\ Author Address:
+International Chair in Mathematical Physics and Applications, Universite d'Abomey-Calavi,
+Abomey-Calavi, Benin, France. olayide.boussari@chu-lyon.fr\ OD - 2012/11/28\ PM - PMCID,
+p. e50452. ISSN: 1932-6203 (Electronic) 1932-6203 (Linking). DOI:
 [10.1371/journal.pone.0050452](https://doi.org/10.1371%2Fjournal.pone.0050452). PMID:
 [23185626](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&cmd=prlinks&retmode=ref&id=23185626).
 
 [Corbel, V., M. Akogbeto, G. B.
 Damien, et al.](#cite-corbelCombinationMalariaVector2012) (2012). "Combination of Malaria
 Vector Control Interventions in Pyrethroid Resistance Area in Benin: A Cluster Randomised
-Controlled Trial". In: _Lancet Infect Dis_ 12.8, pp. 617-26. ISSN: 1474-4457 (Electronic)
+Controlled Trial". In: _Lancet Infect Dis_ 12.8. Aug \par Corbel, Vincent\ Akogbeto,
+Martin\ Damien, Georgia B\ Djenontin, Armel\ Chandre, Fabrice\ Rogier, Christophe\
+Moiroux, Nicolas\ Chabi, Joseph\ Banganna, Bio\ Padonou, Gil G\ Henry, Marie-Claire\
+United States\ The Lancet infectious diseases\ Lancet Infect Dis. 2012 Aug;12(8):617-26.
+Epub 2012 Jun 7. \par eng \par The following values have no corresponding Zotero field:\
+Author Address: Institut de Recherche pour le Developpement, Maladies Infectieuses et
+Vecteurs, Ecologie, Genetique, Evolution et Controle (IRD 224-CNRS 5290 UM1-UM2),
+Cotonou, Benin, and Montpellier, France; Centre de Recherches Entomologiques de Cotonou,
+Cotonou, Benin.\ OD - 2012/06/12\ PM - PMCID, pp. 617-26. ISSN: 1474-4457 (Electronic)
 1473-3099 (Linking). DOI:
 [10.1016/S1473-3099(12)70081-6](https://doi.org/10.1016%2FS1473-3099%2812%2970081-6).
 
 [Elanga Ndille, E., S. Doucoure, G.
 Damien, et al.](#cite-elangandilleFirstAttemptValidate2012) (2012). "First Attempt To
 Validate Human IgG Antibody Response to Nterm-34kDa Salivary Peptide as Biomarker for
-Evaluating Exposure to Aedes Aegypti Bites". In: _PLoS Negl Trop Dis_ 6.11, p. e1905.
+Evaluating Exposure to Aedes Aegypti Bites". In: _PLoS Negl Trop Dis_ 6.11.
+doi:10.1371/journal.pntd.0001905 \par The following values have no corresponding Zotero
+field:\ PM - PMCID, p. e1905. DOI:
+[10.1371/journal.pntd.0001905](https://doi.org/10.1371%2Fjournal.pntd.0001905).
 
 [Moiroux, N., O. Boussari, A. Djènontin,
 et al.](#cite-moirouxDrySeasonDeterminants2012) (2012). "Dry Season Determinants of
-Malaria Disease and Net Use in Benin, West Africa". In: _PLoS One_ 7.1, p. e30558.
+Malaria Disease and Net Use in Benin, West Africa". In: _PLoS One_ 7.1.
+doi:10.1371/journal.pone.0030558 \par The following values have no corresponding Zotero
+field:\ PM - PMCID, p. e30558. DOI:
+[10.1371/journal.pone.0030558](https://doi.org/10.1371%2Fjournal.pone.0030558).
 
 [Moiroux, N., M. B. Gomez, C.
 Pennetier, et al.](#cite-moirouxChangesAnophelesFunestus2012) (2012). "Changes in
 Anopheles Funestus Biting Behavior Following Universal Coverage of Long-Lasting
-Insecticidal Nets in Benin". In: _J Infect Dis_ 206.10, pp. 1622-9. ISSN: 1537-6613
-(Electronic) 0022-1899 (Linking). DOI:
+Insecticidal Nets in Benin". In: _J Infect Dis_ 206.10. eng \par Eng \par Moiroux,
+Nicolas\ Gomez, Marinely B\ Pennetier, Cedric\ Elanga, Emmanuel\ Djenontin, Armel\
+Chandre, Fabrice\ Djegbe, Innocent\ Guis, Helene\ Corbel, Vincent\ United States\ The
+Journal of infectious diseases\ J Infect Dis. 2012 Nov;206(10):1622-9. doi:
+10.1093/infdis/jis565. Epub 2012 Sep 10. \par Moiroux, Nicolas\ Gomez, Marinely B\
+Pennetier, Cedric\ Elanga, Emmanuel\ Djenontin, Armel\ Chandre, Fabrice\ Djegbe,
+Innocent\ Guis, Helene\ Corbel, Vincent\ Journal article\ The Journal of infectious
+diseases\ J Infect Dis. 2012 Sep 10. \par Nov \par Sep 10 \par September 10, 2012 \par
+The following values have no corresponding Zotero field:\ Author Address: MIVEGEC (IRD
+224-CNRS 5290-UM1-UM2), Institut de Recherche pour le Developpement, Montpellier,
+France.\ OD - 2012/09/12\ PM - PMCID \par The following values have no corresponding
+Zotero field:\ Author Address: MIVEGEC (IRD 224-CNRS 5290-UM1-UM2), Institut de Recherche
+pour le Developpement (IRD), BP64501, 34394 Montpellier, France.\ OD - 2012/09/12\ PM -
+PMCID \par The following values have no corresponding Zotero field:\ PM - PMCID, pp.
+1622-9. ISSN: 1537-6613 (Electronic) 0022-1899 (Linking). DOI:
 [10.1093/infdis/jis565](https://doi.org/10.1093%2Finfdis%2Fjis565).
 
 [Sandeu, M. M., A. Moussiliou, N.
 Moiroux, et al.](#cite-sandeuOptimizedPanspeciesSpeciation2012) (2012). "Optimized
 Pan-species and Speciation Duplex Real-Time PCR Assays for Plasmodium Parasites Detection
-in Malaria Vectors". In: _PLoS One_ 7.12, p. e52719. ISSN: 1932-6203 (Electronic)
-1932-6203 (Linking). DOI:
+in Malaria Vectors". In: _PLoS One_ 7.12. eng \par Research Support, Non-U.S. Gov't \par
+Sandeu, Maurice Marcel\ Moussiliou, Azizath\ Moiroux, Nicolas\ Padonou, Gilles G\
+Massougbodji, Achille\ Corbel, Vincent\ Ndam, Nicaise Tuikue\ PLoS One.
+2012;7(12):e52719. doi: 10.1371/journal.pone.0052719. Epub 2012 Dec 28. \par The
+following values have no corresponding Zotero field:\ Author Address: Centre de Recherche
+Entomologique de Cotonou (CREC), Universite d'Abomey-Calavi, Cotonou, Benin.\ OD -
+2013/01/04\ PM - PMCID, p. e52719. ISSN: 1932-6203 (Electronic) 1932-6203 (Linking). DOI:
 [10.1371/journal.pone.0052719](https://doi.org/10.1371%2Fjournal.pone.0052719). PMID:
 [23285168](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&cmd=prlinks&retmode=ref&id=23285168).
 
@@ -406,20 +450,29 @@ in Malaria Vectors". In: _PLoS One_ 7.12, p. e52719. ISSN: 1932-6203 (Electronic
 [Ranson, H., R. N'Guessan, J.
 Lines, et al.](#cite-ransonPyrethroidResistanceAfrican2011) (2011). "Pyrethroid
 Resistance in African Anopheline Mosquitoes: What Are the Implications for Malaria
-Control?" In: _Trends Parasitol_ 27.2, pp. 91-8. ISSN: 1471-5007 (Electronic) 1471-4922
-(Linking). DOI: [10.1016/j.pt.2010.08.004](https://doi.org/10.1016%2Fj.pt.2010.08.004).
+Control?" In: _Trends Parasitol_ 27.2. eng \par Feb \par Ranson, Hilary\ N'guessan,
+Raphael\ Lines, Jonathan\ Moiroux, Nicolas\ Nkuni, Zinga\ Corbel, Vincent\ England\
+Trends in parasitology\ Trends Parasitol. 2011 Feb;27(2):91-8. Epub 2010 Sep 16. \par The
+following values have no corresponding Zotero field:\ Author Address: Vector Group,
+Liverpool School of Tropical Medicine, Pembroke Place, Liverpool, UK, L3 5QA.\ OD -
+2010/09/17\ PM - PMCID, pp. 91-8. ISSN: 1471-5007 (Electronic) 1471-4922 (Linking). DOI:
+[10.1016/j.pt.2010.08.004](https://doi.org/10.1016%2Fj.pt.2010.08.004).
 
 ### 2010 
 [Djenontin, A., S. Bio-Bangana, N.
 Moiroux, et al.](#cite-djenontinCulicidaeDiversityMalaria2010) (2010). "Culicidae
 Diversity, Malaria Transmission and Insecticide Resistance Alleles in Malaria Vectors in
 Ouidah-Kpomasse-Tori District from Benin (West Africa): A Pre-Intervention Study". In:
-_Parasit Vectors_ 3.1, p. 83. ISSN: 1756-3305 (Electronic) 1756-3305 (Linking). DOI:
-[10.1186/1756-3305-3-83](https://doi.org/10.1186%2F1756-3305-3-83).
+_Parasit Vectors_ 3.1. Eng \par Journal article\ Parasites & vectors\ Parasit Vectors.
+2010 Sep 6;3(1):83. \par Sep 6 \par The following values have no corresponding Zotero
+field:\ OD - 2010/09/08\ PM - PMCID, p. 83. ISSN: 1756-3305 (Electronic) 1756-3305
+(Linking). DOI: [10.1186/1756-3305-3-83](https://doi.org/10.1186%2F1756-3305-3-83).
 
 [Yadouleton, A. W., G. Padonou,
 A. Asidi, et al.](#cite-yadouletonInsecticideResistanceStatus2010) (2010). "Insecticide
-Resistance Status in Anopheles Gambiae in Southern Benin". In: _Malar J_ 9.1, p. 83.
+Resistance Status in Anopheles Gambiae in Southern Benin". In: _Malar J_ 9.1. Eng \par
+Journal article\ Malaria journal\ Malar J. 2010 Mar 24;9(1):83. \par Mar 24 \par The
+following values have no corresponding Zotero field:\ OD - 2010/03/26\ PM - PMCID, p. 83.
 ISSN: 1475-2875 (Electronic) 1475-2875 (Linking). DOI:
 [10.1186/1475-2875-9-83](https://doi.org/10.1186%2F1475-2875-9-83).
 
