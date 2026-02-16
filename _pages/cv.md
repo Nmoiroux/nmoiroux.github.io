@@ -18,8 +18,8 @@ output: github_document
 
 
 ## Animation et Gestion de la Recherche
-* Animateur de l’équipe Vector Control Group ([VCG](https://mivegec.fr/fr/departements-scientifiques/evolution-des-systemes-vectoriels-esv/equipes-esv#lutteVecteurs)), MIVEGEC – (2021-2026)
-* Directeur Adjoint, représentant MIVEGEC, du LAMIVECT ([Laboratoire Mixte International sur les maladies à vecteurs en Afrique de l’Ouest](https://www.ird.fr/lmi-lamivect-maladies-vecteurs-en-afrique-de-louest)) – (2017-2022)
+* Responsable du Vector Control Group ([VCG](https://mivegec.fr/fr/departements-scientifiques/evolution-des-systemes-vectoriels-esv/equipes-esv#lutteVecteurs)), MIVEGEC – (2021-2026)
+* Comité directeur du LAMIVECT ([Laboratoire Mixte International sur les maladies à vecteurs en Afrique de l’Ouest](https://www.ird.fr/lmi-lamivect-maladies-vecteurs-en-afrique-de-louest)) – (2017-2022)
 
 ## Expertise
 * Expert OMS (2016-2020) - [WHO collaborating center FRA-72](https://who.my.site.com/ecc/s/view-designation-details?recordId=a79NN0000005FY7YAM) (Pesticides en Santé publique)
@@ -30,8 +30,8 @@ AHOUANGBENON Guenole Joseph, Université Cheikh Anta Diop. 2025-2028. Effets des
 
 [BARTHOLOMEE Colombine](https://www.linkedin.com/in/colombine-bartholomee-a7354915a/), Université de Montpellier. 2022-2025. Soutenue 12/2025. Impact des infrastructures vertes sur la dynamique d’Aedes albopictus et la transmission d’arbovirus en milieu urbain.
 
-[BATIONO Cédric](https://www.linkedin.com/in/c%C3%A9dric-s-bationo-ph-d-a9a36769/), Université Aix-Marseille. 2019-2023. Soutenue 11/2023. [Naviguer dans la complexité du paludisme : dynamique spatio-temporelle, interventions communautaires et défis au Burkina Faso](https://theses.fr/2023AIXM0415).
+[BATIONO Cédric](https://www.linkedin.com/in/c%C3%A9dric-s-bationo-ph-d-a9a36769/), Université Aix-Marseille. 2019-2023. Soutenue 11/2023. Naviguer dans la complexité du paludisme : dynamique spatio-temporelle, interventions communautaires et défis au Burkina Faso. [lien](https://theses.fr/2023AIXM0415)
 
-[TACONET Paul](https://github.com/ptaconet), Université de Montpellier, 2018-2022. Soutenue 06/2022. [Fouille de données spatio-temporelles pour l’étude du risque de transmission résiduelle du paludisme à échelle paysagère en milieu rural ouest-africain](https://theses.fr/2022UMONG020).
+[TACONET Paul](https://github.com/ptaconet), Université de Montpellier, 2018-2022. Soutenue 06/2022. Fouille de données spatio-temporelles pour l’étude du risque de transmission résiduelle du paludisme à échelle paysagère en milieu rural ouest-africain. [lien](https://theses.fr/2022UMONG020)
 
-[SOMA Dieudonné](https://www.researchgate.net/profile/Dieudonne-Soma), Université Nazi Boni. 2016-2021. Soutenue 05/2021. [Approches innovantes de lutte antivectorielle dans un contexte de gestion de la résistance des vecteurs de Plasmodium spp aux insecticides au Burkina Faso : défis et perspectives](https://theses.hal.science/tel-04960557/).
+[SOMA Dieudonné](https://www.researchgate.net/profile/Dieudonne-Soma), Université Nazi Boni. 2016-2021. Soutenue 05/2021. Approches innovantes de lutte antivectorielle dans un contexte de gestion de la résistance des vecteurs de Plasmodium spp aux insecticides au Burkina Faso : défis et perspectives. [lien](https://theses.hal.science/tel-04960557/)
