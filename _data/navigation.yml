@@ -16,9 +16,9 @@ main:
     
   - title: "Taxonomie"
     url: /taxo/
-  
-  - title: "Social"
-    url: /social/
+  # 
+  # - title: "Social"
+  #   url: /social/
 
   - title: "CV"
     url: /cv/

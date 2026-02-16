@@ -13,10 +13,3 @@ Chercheur en écologie et entomologie médicale à l'[Institut de Recherche pour
 
 <div class="sk-ww-linkedin-profile-post" data-embed-id="25655006"></div><script src="https://widgets.sociablekit.com/linkedin-profile-posts/widget.js" defer></script>
 
-
- <script type="module" src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
-  <bsky-embed
-    username="nmoiroux.bsky.social"
-    mode="dark"
-    limit="1">
-  </bsky-embed>
