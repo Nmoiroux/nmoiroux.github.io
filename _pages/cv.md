@@ -1,5 +1,5 @@
 ---
-Title:"CV"
+title: ""
 permalink: /cv/
 output: github_document
 ---
