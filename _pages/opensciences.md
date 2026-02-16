@@ -37,13 +37,13 @@ Access to MODIS Earth Observation Data_. DOI:
 (Visited on Feb. 15, 2026).
 
 ## Apps
-[ExpBites App](https://nicolas-moiroux.shinyapps.io/ExpBites/) :
+### [ExpBites App](https://nicolas-moiroux.shinyapps.io/ExpBites/) :
 ![](../images/ExpBites.png)
 
-[ecoXCorr App](https://nicolas-moiroux.shinyapps.io/ecoXCorrApp/) :
+### [ecoXCorr App](https://nicolas-moiroux.shinyapps.io/ecoXCorrApp/) :
 ![](../images/ecoXCorr.png)
 
-[InsectLabelR App](https://nicolas-moiroux.shinyapps.io/InsectLabelR/) :
+### [InsectLabelR App](https://nicolas-moiroux.shinyapps.io/InsectLabelR/) :
 ![](../images/InsectLabelR.png) 
 
 ## Codes & Data
