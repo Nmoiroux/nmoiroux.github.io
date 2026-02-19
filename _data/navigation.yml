@@ -20,5 +20,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "ExpBites"
-    url: /expbites/
+  # - title: "DIV-YOO"
+  #   url: /divyoo/
+    
+  # - title: "ExpBites"
+  #   url: /expbites/
