@@ -9,6 +9,12 @@ output: github_document
 
 
 ## Preprints
+[Bartholomee, C., C. Garcia-Marin, C.
+Sutter, et al.](#cite-bartholomeeVegetatedUrbanSpaces2026) (2026). _Vegetated Urban
+Spaces Increase Aedes Albopictus Survival and the Risk of Dengue and Chikungunya
+Transmission: A Field and Modelling Study in Montpellier, France_. DOI:
+[10.64898/2026.03.02.709080](https://doi.org/10.64898%2F2026.03.02.709080).
+
 [Seck, F., O. Seydi, N.
 Moiroux, et al.](#cite-seckEcoepidemiologicalThresholdsMalaria2026) (2026).
 _Eco-Epidemiological Thresholds for Malaria Transmission in Multi-Species, Phenotypically
