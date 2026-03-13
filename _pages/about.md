@@ -11,4 +11,5 @@ Chercheur en écologie et entomologie médicale à l'[Institut de Recherche pour
 
 ## News
 
-<div class="sk-ww-linkedin-profile-post" data-embed-id="25655006"></div><script src="https://widgets.sociablekit.com/linkedin-profile-posts/widget.js" defer></script>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7404860837653499904?collapsed=1" height="555" width="504" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
+
