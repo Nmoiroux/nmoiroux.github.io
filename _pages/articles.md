@@ -122,8 +122,7 @@ Western Benin: A Phase III Trial". In: _PLOS ONE_ 18.9, p. e0291755. DOI:
 
 Ngou, C. M., A. N. Bayibéki, L. Abate, et
 al. (2023). "Influence of the Sickle Cell Trait on Plasmodium
-Falciparum Infectivity from Naturally Infected Gametocyte Carriers". In: _BMC Infectious Diseases_ 23.1, p.
-317. DOI: [10.1186/s12879-023-08134-x](https://doi.org/10.1186%2Fs12879-023-08134-x).
+Falciparum Infectivity from Naturally Infected Gametocyte Carriers". In: _BMC Infectious Diseases_ 23.1, p.317. DOI: [10.1186/s12879-023-08134-x](https://doi.org/10.1186%2Fs12879-023-08134-x).
 
 Pooda, S. H., N. Moiroux, A. Porciani, et
 al. (2023). "Proof-of-Concept Study for a Long-Acting
@@ -133,8 +132,7 @@ _Parasites & Vectors_ 16.1, p. 66. DOI:
 
 Taconet, P., B. Zogo, D. D. Soma, et
 al. (2023). "Anopheles Sampling Collections in the Health
-Districts of Korhogo (Côte d'Ivoire) and Diébougou (Burkina Faso) between 2016 and 2018". In: _Gigabyte_
-2023, pp. 1-10. DOI: [10.46471/gigabyte.83](https://doi.org/10.46471%2Fgigabyte.83).
+Districts of Korhogo (Côte d'Ivoire) and Diébougou (Burkina Faso) between 2016 and 2018". In: _Gigabyte_2023, pp. 1-10. DOI: [10.46471/gigabyte.83](https://doi.org/10.46471%2Fgigabyte.83).
 
 Vantaux, A., N. Moiroux, K. R. Dabiré, et
 al. (2023). "Multiple hosts, multiple impacts: the role of
@@ -218,8 +216,7 @@ to Insecticide Control". In: _Current Opinion in Insect Science_ 34, pp. 48-54. 
 
 d'Almeida, T. C., I. Sadissou, M. Sagbohan, et
 al. (2019). "High Level of Soluble Human Leukocyte Antigen (HLA)-G at
-Beginning of Pregnancy as Predictor of Risk of Malaria during Infancy". In: _Scientific Reports_ 9.1, p.
-9160. DOI: [10.1038/s41598-019-45688-w](https://doi.org/10.1038%2Fs41598-019-45688-w).
+Beginning of Pregnancy as Predictor of Risk of Malaria during Infancy". In: _Scientific Reports_ 9.1, p.9160. DOI: [10.1038/s41598-019-45688-w](https://doi.org/10.1038%2Fs41598-019-45688-w).
 
 Mulatier, M., S. Camara, A. Koffi, et
 al. (2019). "Efficacy of Vector Control Tools against
@@ -294,8 +291,7 @@ e104967. DOI: [10.1371/journal.pone.0104967](https://doi.org/10.1371%2Fjournal.p
 
 Moiroux, N., A. Djènontin, A. S. Bio-Bangana,
 et al. (2014). "Spatio-Temporal Analysis of Abundances
-of Three Malaria Vector Species in Southern Benin Using Zero-Truncated Models". In: _Parasites & Vectors_
-7, p. 103. DOI: [10.1186/1756-3305-7-103](https://doi.org/10.1186%2F1756-3305-7-103).
+of Three Malaria Vector Species in Southern Benin Using Zero-Truncated Models". In: _Parasites & Vectors_7, p. 103. DOI: [10.1186/1756-3305-7-103](https://doi.org/10.1186%2F1756-3305-7-103).
 
 ### 2013 
 Assogba, B. S., L. Djogbénou, J. Saizonou, et

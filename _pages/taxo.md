@@ -39,9 +39,7 @@ Moiroux (2024). _Clé d'identification Des Anopheles Femelles
 [InsectLabelR app](https://nicolas-moiroux.shinyapps.io/InsectLabelR/): l'application Web, associée au package R éponyme (*Cf infra*) pour la génération automatisée d’étiquettes destinées aux collections entomologiques.
 <iframe height="600" width="100%" frameborder="no" src="https://nicolas-moiroux.shinyapps.io/InsectLabelR/"> </iframe>
 
-NULL
-
-```
-## Error in `sort.int()`:
-## ! 'x' must be atomic
-```
+Moiroux, N. and N.
+Rahola (2026). _InsectLabelR: Create Labels for Insect in
+Collection_. DOI:
+[10.32614/CRAN.package.InsectLabelR](https://doi.org/10.32614%2FCRAN.package.InsectLabelR).
