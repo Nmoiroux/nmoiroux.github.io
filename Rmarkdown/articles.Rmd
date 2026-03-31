@@ -1,0 +1,52 @@
+---
+title: "Articles"
+permalink: /articles/
+author_profile: true
+output: github_document
+---
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE)
+library(RefManageR)
+library(tidyverse)
+
+bib <- ReadBib(paste0(getwd(),"/REFERENCES.bib"))
+bib_p <- bib[grepl("preprint",bib$keywords)] # preprint
+yn <- year(now())
+bib_p <- bib_p[bib_p$year %in% c(yn-1,yn)]
+bib_a <- bib[bibtype = "Article"] # articles
+year <- bib_a$year %>% unique() %>% unlist() %>% as.integer() %>% sort(decreasing = T)
+
+
+```
+
+## Preprints
+```{r results = "asis", echo = FALSE}
+# print
+NoCite(bib_p)
+PrintBibliography(bib_p,  .opts = list(check.entries = FALSE,
+                                     bib.style = "authoryear",
+                                           style = "markdown",
+                                     no.print.fields = c("urldate","issn"),
+                                           sorting = "ydnt"))
+  cat("\n")
+  
+```
+
+
+## Publications revues par les pairs / Peer-reviewed publications
+```{r results = "asis", echo = FALSE}
+# print
+for (y in year){
+  cat(paste("###",y,"\n"))
+  bib_y <- bib_a[year = as.character(y)]
+  NoCite(bib_y)
+  PrintBibliography(bib_y,  .opts = list(check.entries = FALSE,
+                                     bib.style = "authoryear",
+                                           style = "markdown",
+                                     no.print.fields = c("urldate","issn"),
+                                           sorting = "none"))
+  cat("\n")
+}
+
+```
+

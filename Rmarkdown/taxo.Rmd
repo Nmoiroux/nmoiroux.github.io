@@ -1,0 +1,59 @@
+---
+title: "Taxonomie"
+permalink: /taxo/
+output: github_document
+---
+
+Quelques ressources en lien avec la taxonomie des moustiques, leur identification et leur mise en collection.
+
+## Collection ARIM
+[ARIM](https://arim.ird.fr/) (arthropodes d'intérêt médical) est hébergée à Montpellier (France) et propose au public plus de 3000 espèces de divers groupes de vecteurs et nuisants (moustiques, phlébotomes, simulies, glossines, culicoides, poux, puces, tiques, punaise, acariens...). 
+
+ <script type="module" src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
+  <bsky-embed
+    username="arimcollection.bsky.social"
+    mode="dark"
+    limit="1">
+  </bsky-embed>
+  
+
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE)
+library(RefManageR)
+library(tidyverse)
+
+bib <- ReadBib(paste0(getwd(),"/REFERENCES.bib"))
+bib_t <- bib[grepl("taxonomy",bib$keywords) & grepl("R package",bib$keywords)] # R packages
+bib_k <- bib[grepl("key",bib$keywords)] # ID keys
+
+
+```
+## Clés d'identification / Identification keys
+```{r results = "asis", echo = FALSE}
+# print
+NoCite(bib_k)
+PrintBibliography(bib_k,  .opts = list(check.entries = FALSE,
+                                     bib.style = "authoryear",
+                                           style = "markdown",
+                                     no.print.fields = "urldate",
+                                           sorting = "ydnt"))
+  cat("\n")
+  
+```
+
+## Outils / Tools
+
+[InsectLabelR app](https://nicolas-moiroux.shinyapps.io/InsectLabelR/): l'application Web, associée au package R éponyme (*Cf infra*) pour la génération automatisée d’étiquettes destinées aux collections entomologiques.
+<iframe height="600" width="100%" frameborder="no" src="https://nicolas-moiroux.shinyapps.io/InsectLabelR/"> </iframe>
+
+```{r results = "asis", echo = FALSE}
+# print
+NoCite(bib_t)
+PrintBibliography(bib_t,  .opts = list(check.entries = FALSE,
+                                     bib.style = "authoryear",
+                                           style = "markdown",
+                                     no.print.fields = "urldate",
+                                           sorting = "ydnt"))
+  cat("\n")
+  
+```

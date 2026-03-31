@@ -1,0 +1,45 @@
+---
+title: "DIV-YOO"
+permalink: /divyoo/
+output: github_document
+---
+
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE)
+library(RefManageR)
+library(tidyverse)
+
+bib_div <- ReadBib(paste0(getwd(),"/DIV-YOO.bib"))
+optCite <- list(cite.style = "markdown",
+                   max.names = 1)
+
+```
+
+# Diversité des Moustiques en Afrique de l’Ouest (DIV-YOO) : 
+## Déterminants d’un déclin probable et implications pour l’épidémiologie et le contrôle des maladies à transmission vectorielle
+
+DIV-YOO vise a comprendre l'impact des changements globaux sur la diversité Culicidae (moustiques) en Afrique et s’intéresse au rôle de cette diversité dans l'épidémiologie des maladies vectorielles. 
+
+Ce projet a reçu un financement de l’Agence Nationale de la Recherche (ANR-23-CE35-0005). Il est réalisé en collaboration entre des chercheurs de l'unité MIVEGEC de l'IRD, du Pôle de Zoologie Médicale de l'Institut Pasteur de Dakar et de l'Ecole Polytechnique de Thiès.
+
+## 1.	Justifications, hypothèses et objectifs
+L’humanité est confrontée à deux crises majeures liées aux perturbations anthropiques des écosystèmes : l’extinction massive des espèces et l’émergence ou la réémergence de pathogènes. Le projet DIV-YOO se situe au carrefour de ces problématiques et contribuera à une meilleure compréhension de (i) l’impact des changements anthropiques sur la diversité des moustiques, dont beaucoup sont des vecteurs de pathogènes humains et animaux, et (ii) la manière dont cette diversité influence l’épidémiologie des maladies à transmission vectorielle. La justification du projet repose sur les arguments suivants :
+
+* **L'impact des changements environnementaux anthropiques sur la diversité et la distribution des insectes en Afrique tropicale est encore mal compris.**
+
+>Les changements environnementaux majeurs en Afrique de l’Ouest (doublement des surfaces anthropisées, déficits pluviométriques récurrents depuis 1970) ont probablement eu des effets considérables sur les communautés de moustiques. Une méta-analyse récente a montré que, dans la plupart des cas, les zones anthropisées présentent une richesse spécifique plus faible que les territoires naturels voisins, bien que les réponses spécifiques des espèces soient très variables (```r Citet(bib_div, "perrinWorldwideImpactsLandscape2022")```). Une analyse préliminaire (Figure 1) sur les espèces du genre *Anopheles* au Burkina Faso a mis en évidence une réduction apparente de 60 % de la richesse spécifique entre la période avant et après 1970, avec la disparition virtuelle de 18 morpho-espèces sur 30. Bien que des biais d’observation et d’échantillonnage existent entre ces périodes, nous pouvons raisonnablement émettre l’hypothèse que l’Afrique de l’Ouest a subi une forte réduction de la diversité des moustiques au cours du dernier siècle. A l’opposé, les changements environnementaux et le commerce mondial favorisent l’expansion de plusieurs espèces invasives (*Aedes albopictus*, *Anopheles stephensi*, *Anopheles arabiensis*...), qui étendent leurs aires de distribution, en particulier dans les zones anthropisées. D’un point de vue à la fois fondamental et appliqué (prédiction du risque de maladies dans un contexte de changement global), il est nécessaire d’évaluer plus précisément, tant qualitativement que quantitativement, le déclin de la diversité des moustiques et ses déterminants. Par ailleurs, l’étude des moustiques en Afrique de l’Ouest permettra de réduire les biais géographiques (manque de données provenant des zones tropicales, qui abritent la plus grande diversité d’insectes et subissent des transformations rapides de leurs habitats) dans l’analyse du déclin des populations et de la diversité des insectes.
+
+* **L'impact de la diversité des insectes vecteurs sur l’épidémiologie des maladies à transmission vectorielle a été peu étudié et reste imprévisible.**
+
+>Les effets majeurs probables des changements environnementaux sur la diversité des moustiques, favorisant potentiellement les vecteurs les plus compétents, ainsi que le développement et la mise en œuvre d'interventions de lutte (OGM, SIT) visant à supprimer certaines espèces vectrices, soulèvent des questions sur leurs impacts épidémiologiques attendus. L’amplification et la dilution font référence aux effets de la biodiversité sur l’augmentation ou la réduction du risque de maladie. Comparativement aux effets de la diversité des hôtes, ceux liés à la diversité des vecteurs ont reçu peu d’attention. Les rares travaux théoriques et empiriques sur ce sujet suggèrent que la diversité des vecteurs amplifie le risque de maladie (```r Cite(bib_div, c("rocheImpactCommunityOrganization2013","parkVectorSpeciesRichness2016","hoiDeconstructingImpactMalaria2020"), .opts = optCite)```. Toutefois, cette hypothèse repose principalement sur l'idée simpliste selon laquelle une plus grande richesse spécifique entraîne une augmentation des densités ou de la diversité phénotypique (diversité fonctionnelle). Des études récentes prenant en compte la compétition larvaire (affectant la densité des moustiques) et la compétition pour la prise de repas sanguins (feeding interference) ont montré que la richesse spécifique peut également induire des effets de dilution (Takimoto et al. 2022). Cependant, ces études présentent encore plusieurs limitations importantes, notamment l’omission de paramètres clés ou de propriétés écologiques (liées à la compétition interspécifique en particulier) ayant une importance épidémiologique. En nous appuyant sur les connaissances théoriques et empiriques actuelles, nous formulons l’hypothèse préoccupante selon laquelle l’extirpation d’une espèce de moustique, qu’elle soit vectrice ou non, par des mesures de contrôle pourrait entraîner une augmentation de la transmission des maladies, en raison d’interactions complexes (par ex. Figure 2).
+
+Les objectifs principaux du projet sont:
+
+* (Obj. 1) Tester l’hypothèse selon laquelle la diversité des moustiques a diminué en Afrique de l’Ouest et au Sénégal en réponse aux changements anthropiques, et étudier les déterminants de cette diversité et de ses évolutions. 
+
+* (Obj. 2) Analyser la réponse aux changements globaux des principales espèces vectrices de pathogènes et produire des cartes de leur distribution actuelle et future.
+
+* (Obj. 3) Élaborer un modèle mathématique théorique afin d'identifier les conditions de plausibilité de l'effet de dilution. Optimiser ce modèle pour le paludisme humain, et ainsi permettre de prédire l’impact de l’extirpation ou de l’invasion d’une espèce sur le risque d’amplification ou de dilution du paludisme.
+
+
+
