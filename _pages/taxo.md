@@ -25,13 +25,13 @@ Toxorhynchites (Diptera : Culicidae), femelles, Région Afrotropicale._. DOI:
 [10.5281/zenodo.17530581](https://doi.org/10.5281%2Fzenodo.17530581).
 
 Moiroux, N. and N.
-Rahola (2025b). _Clé d'identification des genres de
-Moustiques (Diptera : Culicidae), mâles et femelles, Région Afrotropicale._. DOI:
+Rahola (2025b). _Clé d'identification des genres de Moustiques
+(Diptera : Culicidae), mâles et femelles, Région Afrotropicale._. DOI:
 [10.5281/zenodo.17521013](https://doi.org/10.5281%2Fzenodo.17521013).
 
 Coetzee, M., N. Rahola, and N.
-Moiroux (2024). _Clé d'identification Des Anopheles
-Femelles (Diptera : Culicidae) d'Afrique Sub-Saharienne_. DOI:
+Moiroux (2024). _Clé d'identification Des Anopheles Femelles
+(Diptera : Culicidae) d'Afrique Sub-Saharienne_. DOI:
 [10.5281/zenodo.11505342](https://doi.org/10.5281%2Fzenodo.11505342).
 
 ## Outils / Tools
@@ -39,7 +39,9 @@ Femelles (Diptera : Culicidae) d'Afrique Sub-Saharienne_. DOI:
 [InsectLabelR app](https://nicolas-moiroux.shinyapps.io/InsectLabelR/): l'application Web, associée au package R éponyme (*Cf infra*) pour la génération automatisée d’étiquettes destinées aux collections entomologiques.
 <iframe height="600" width="100%" frameborder="no" src="https://nicolas-moiroux.shinyapps.io/InsectLabelR/"> </iframe>
 
-Moiroux, N. and N.
-Rahola (2026). _InsectLabelR: Designing Labels for
-Insects in Collection_. Zenodo. DOI:
-[10.5281/zenodo.18631709](https://doi.org/10.5281%2Fzenodo.18631709).
+NULL
+
+```
+## Error in `sort.int()`:
+## ! 'x' must be atomic
+```
