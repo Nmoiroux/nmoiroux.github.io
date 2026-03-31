@@ -4,7 +4,7 @@ title: "Open sciences"
 output: github_document
 ---
 
-Cette page rassemble les ressources mises à disposition dans une démarche de science ouverte. S'y trouvent des packages R, des jeux de données et des codes développés dans le cadre de travaux de recherche.
+Cette page rassemble les ressources mises à disposition dans une démarche de science ouverte. S'y trouvent des packages R, des jeux de données et des codes développés dans le cadre de travaux de recherche ainsi que des supports de cours.
 
 Les packages R ont été développés pour répondre à des besoins méthodologiques concrets. Ils couvrent différents aspects de l’analyse et de la gestion de données en écologie et entomologie : **ExpBites** pour l’analyse de données de terrain liées aux interactions comportementale humain-vecteur, **ecoXCorr** pour l’étude des effets différés entre variables environnementales et biologiques, **modisfast** (développé par Paul Taconet) pour l’accès et le téléchargement rapide de données environnementales issues de la télédétection, et **InsectLabelR** pour la génération automatisée d’étiquettes destinées aux collections entomologiques. Certain de ces packages ont des applications web associées permettant soit d'utiliser les fonctionalités du package sans connaissance du logiciel et du langage R soit d'illustrer les capacités du package. 
 
@@ -104,3 +104,13 @@ Zogo, B., A. A. Koffi, L. P. Ahoua Alou, et
 al. (2020). _Identification et Caractérisation Des
 Gîtes Larvaires d'Anopheles Spp. à Korhogo (Entomologie)_. DOI:
 [10.23708/5ODIWK](https://doi.org/10.23708%2F5ODIWK).
+
+## Supports de cours
+Moiroux, N. (2020). _Ecological Niches and
+Vector-Borne Pathogens Transmission_. Lecture Montpellier (FRA), France. DOI:
+[10.5281/zenodo.4263280](https://doi.org/10.5281%2Fzenodo.4263280).
+
+Moiroux,
+N. (2019). _Comportement Des Vecteurs, Lutte Anti-Vectorielle
+et Modélisation de La Transmission Entomologique Des Plasmodiums Humains_. Bobo-Dioulasso, Burkina Faso.
+DOI: [10.5281/zenodo.19356147](https://doi.org/10.5281%2Fzenodo.19356147).

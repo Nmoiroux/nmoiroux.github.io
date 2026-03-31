@@ -1,10 +1,14 @@
 ####### USEFUL TAGS IN bib (TO ADD IN ZOTERO) ######
-# "preprint", R package", "dataset", "code", "taxonomy"
+# "preprint", R package", "dataset", "code", "taxonomy", "Lecture"
 
 # Install if needed
 # devtools::install_github("ropensci/RefManageR")
 # library(knitr)
 # library()
+
+
+# To see the bib file as a df
+# bibdf <- bib2df(paste0(getwd(),"/Rmarkdown/REFERENCES.bib"))
 
 
 ####### GENERATE SITE PAGES

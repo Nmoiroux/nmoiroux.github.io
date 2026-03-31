@@ -15,12 +15,11 @@ France_. DOI: [10.64898/2026.03.02.709080](https://doi.org/10.64898%2F2026.03.02
 Seck, F., O. Seydi, N. Moiroux, et
 al. (2026). _Eco-Epidemiological Thresholds for Malaria
 Transmission in Multi-Species, Phenotypically Structured Mosquito Populations_.
-https://hal.science/hal-05450492.
 
 Dongmo, F. J., A. Porciani, N. Moiroux, et
 al. (2025). _Modeling the Impact of Ivermectin-Based
 Optimal Strategies on Malaria Control: The Role of Formulation, Coverage, and Mosquitocidal Efficacy
-Timing_. https://hal.science/hal-05335342.
+Timing_.
 
 Zela, L., S. H. Pooda, A. Porciani, et
 al. (2025). _Selection of a Lead Long-Acting Formulation of
