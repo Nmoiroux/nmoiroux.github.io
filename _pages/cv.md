@@ -3,10 +3,9 @@ title: ""
 permalink: /cv/
 output: github_document
 ---
-
 ## Formation
-* HDR, [Université de Monpellier](https://www.umontpellier.fr/), France, 2021. [Lien mémoire](https://hal.science/tel-03698171v1)
-* Doctorat Biologie et Santé. Université Montpellier 2, France, 2012. [Lien mémoire](https://theses.hal.science/tel-00812118v1)
+* HDR, [Université de Monpellier](https://www.umontpellier.fr/), France, 2021. [Lien](https://hal.science/tel-03698171v1)
+* Doctorat Biologie et Santé. Université Montpellier 2, France, 2012. [Lien](https://theses.hal.science/tel-00812118v1)
 * Master Ecologie - spécialité Aménagement du Territoire et Télédétection. [Université Paul Sabatier Toulouse 3](https://www.univ-tlse3.fr/), France, 2006.
 * Maitrise d'IUP Génie des Territoires et de l'Environnement - spécialité Diagnostic et Gestion des Systèmes Ecologiques. [Université de Franche-Comté](https://www.umlp.fr/), Besançon, France, 2005.
 * DUT Génie Biologique option Génie de l'Environnement. [IUT de Thionville-Yutz](https://iut-thionville-yutz.univ-lorraine.fr/), Université Paul Verlaine, Metz, France, 2002.

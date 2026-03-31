@@ -6,8 +6,6 @@ output: github_document
 ---
 
 
-
-
 ## Preprints
 Bartholomee, C., C. Garcia-Marin, C. Sutter, et
 al. (2026). _Vegetated Urban Spaces Increase Aedes Albopictus
@@ -31,7 +29,7 @@ Mosquitocidal Efficacy in Cattle under Laboratory Conditions_. DOI:
 [10.1101/2025.07.23.665952](https://doi.org/10.1101%2F2025.07.23.665952).
 
 
-## Publications dans des revues / Peer-reviewed publications
+## Publications revues par les pairs / Peer-reviewed publications
 ### 2026 
 Pooda, S. H., A. M. Bandaogo, P. A. Agboho, et
 al. (2026). "Impact of Ivermectin-Blood Meals from Treated
@@ -307,15 +305,13 @@ a Vector Control Area in Southern Benin, West Africa." In: _Parasit Vectors_ 6.1
 Moiroux, N., C. Pennetier, and V.
 Corbel (2013). "Behavioral Adaptation of Malaria Vectors to
 LLINs: A Reply". In: _The Journal of Infectious Diseases_ 207.7, pp. 1184-5. DOI:
-[10.1093/infdis/jit012](https://doi.org/10.1093%2Finfdis%2Fjit012). PMID:
-[23307934](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&cmd=prlinks&retmode=ref&id=23307934).
+[10.1093/infdis/jit012](https://doi.org/10.1093%2Finfdis%2Fjit012).
 
 ### 2012 
 Boussari, O., N. Moiroux, J. Iwaz, et
 al. (2012). "Use of a Mixture Statistical Model in Studying
 Malaria Vectors Density". In: _PLoS One_ 7.11, p. e50452. DOI:
-[10.1371/journal.pone.0050452](https://doi.org/10.1371%2Fjournal.pone.0050452). PMID:
-[23185626](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&cmd=prlinks&retmode=ref&id=23185626).
+[10.1371/journal.pone.0050452](https://doi.org/10.1371%2Fjournal.pone.0050452).
 
 Corbel, V., M. Akogbeto, G. B. Damien, et
 al. (2012). "Combination of Malaria Vector Control Interventions
@@ -342,8 +338,7 @@ Following Universal Coverage of Long-Lasting Insecticidal Nets in Benin". In: _J
 Sandeu, M. M., A. Moussiliou, N. Moiroux, et
 al. (2012). "Optimized Pan-species and Speciation Duplex
 Real-Time PCR Assays for Plasmodium Parasites Detection in Malaria Vectors". In: _PLoS One_ 7.12, p.
-e52719. DOI: [10.1371/journal.pone.0052719](https://doi.org/10.1371%2Fjournal.pone.0052719). PMID:
-[23285168](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&cmd=prlinks&retmode=ref&id=23285168).
+e52719. DOI: [10.1371/journal.pone.0052719](https://doi.org/10.1371%2Fjournal.pone.0052719).
 
 ### 2011 
 Ranson, H., R. N'Guessan, J. Lines, et
