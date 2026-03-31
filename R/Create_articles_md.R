@@ -8,7 +8,10 @@
 
 
 ####### GENERATE SITE PAGES
-pages <- c("articles", "opensciences", "taxo", "cv", "about", "expbites")
+# First modify the .Rmd files in /Rmarkdown folder then run the code
+
+# pages to update (names of .Rmd files)
+pages <- c("articles", "opensciences", "taxo", "cv", "about", "expbites") 
 
 for (page in pages){
   file_in <- paste0(getwd(),"/Rmarkdown/",page,".Rmd")
