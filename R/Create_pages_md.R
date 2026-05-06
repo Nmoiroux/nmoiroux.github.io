@@ -1,5 +1,5 @@
 ####### USEFUL TAGS IN bib (TO ADD IN ZOTERO) ######
-# "preprint", R package", "dataset", "code", "taxonomy", "Lecture"
+# "preprint", "R package", "dataset", "code", "taxonomy", "Lecture"
 
 # Install if needed
 # devtools::install_github("ropensci/RefManageR")
