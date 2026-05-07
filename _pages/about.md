@@ -14,10 +14,11 @@ Impliqué dans des projets collaboratifs internationaux, nous contribuons, avec 
 ## News
 
 
-<iframe https://www.linkedin.com/embed/feed/update/urn:li:share:7452266172491657216?collapsed=1" 
+<iframe src=https://www.linkedin.com/embed/feed/update/urn:li:share:7452266172491657216?collapsed=1" 
 height="723" 
 width="100%" 
-frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
+frameborder="0" allowfullscreen="" title="Post intégré">
+</iframe>
 
 ---
 
