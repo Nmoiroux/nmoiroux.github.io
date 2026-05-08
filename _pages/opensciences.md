@@ -109,6 +109,15 @@ Des Gîtes Larvaires d'Anopheles Spp. à Korhogo (Entomologie)_. DOI:
 [10.23708/5ODIWK](https://doi.org/10.23708%2F5ODIWK).
 
 ## Supports de cours
+Moiroux,
+N. (2023). _Expansion de Niches Écologiques et Espèces
+Invasives Chez Les Culicidae_. Dakar, Sénégal. DOI:
+[10.5281/zenodo.20081157](https://doi.org/10.5281%2Fzenodo.20081157).
+
+Moiroux, N.
+(2023a). _Le Concept Unifié d'espèce et Les Culicidae_. Dakar, Sénégal. DOI:
+[10.5281/zenodo.20081586](https://doi.org/10.5281%2Fzenodo.20081586).
+
 Moiroux, N. (2020). _Ecological Niches
 and Vector-Borne Pathogens Transmission_. Lecture. Montpellier (FRA), France. DOI:
 [10.5281/zenodo.4263280](https://doi.org/10.5281%2Fzenodo.4263280).
