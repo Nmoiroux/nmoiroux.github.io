@@ -14,7 +14,8 @@ Les packages R ont été développés pour répondre à des besoins méthodologi
 ## R packages
 Moiroux,
 N. (2026). _Mfclim: Download Archived Meteorological Data
-from 'Meteo-France'_.
+from 'Meteo-France'_. DOI:
+[10.32614/CRAN.package.mfclim](https://doi.org/10.32614%2FCRAN.package.mfclim).
 
 Moiroux, N., C. Bartholomée, and P.
 Taconet (2026). _ecoXCorr: Lagged Cross-Correlation
