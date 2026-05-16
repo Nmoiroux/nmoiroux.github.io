@@ -12,6 +12,11 @@ al. (2026). _Vegetated Urban Spaces Increase Aedes
 Albopictus Survival and the Risk of Dengue and Chikungunya Transmission: A Field and Modelling Study in
 Montpellier, France_. DOI: [10.64898/2026.03.02.709080](https://doi.org/10.64898%2F2026.03.02.709080).
 
+Bartholomee, C., C. Sutter, F. Fournet, et
+al. (2026). _How Urban Vegetation Influences Dynamics of
+Aedes Albopictus Egg Density: Three Years of Surveillance in Montpellier (France)_. DOI:
+[10.64898/2026.05.15.725325](https://doi.org/10.64898%2F2026.05.15.725325).
+
 Seck, F., O. Seydi, N. Moiroux, et
 al. (2026). _Eco-Epidemiological Thresholds for
 Malaria Transmission in Multi-Species, Phenotypically Structured Mosquito Populations_.
