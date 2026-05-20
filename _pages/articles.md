@@ -22,12 +22,6 @@ al. (2026). _Eco-Epidemiological Thresholds for
 Malaria Transmission in Multi-Species, Phenotypically Structured Mosquito Populations_.
 https://hal.science/hal-05450492.
 
-Zela, L., S. H. Pooda, A. Porciani, et
-al. (2025). _Selection of a Lead Long-Acting Formulation of
-Ivermectin to Target Major Malaria Vectors in Western Africa: Evaluation of Pharmacokinetics and
-Mosquitocidal Efficacy in Cattle under Laboratory Conditions_. DOI:
-[10.1101/2025.07.23.665952](https://doi.org/10.1101%2F2025.07.23.665952).
-
 
 ## Publications revues par les pairs / Peer-reviewed publications
 ### 2026 
@@ -42,6 +36,12 @@ al. (2026). "Impact of Ivermectin-Blood Meals from Treated
 Cattle on Mortality and Reproductive Parameters of Aedes Aegypti (Diptera: Culicidae) for Vector
 Control". In: _Journal of Medical Entomology_ 63.1, p. tjag005. DOI:
 [10.1093/jme/tjag005](https://doi.org/10.1093%2Fjme%2Ftjag005).
+
+Zela, L., S. H. Pooda, A. Porciani, et
+al. (2026). "Selection of the Optimal Long-Acting Injectable
+Formulation of Ivermectin for Use in Humans to Target Malaria Vectors in Western Africa: Evaluation of
+Pharmacokinetics and Mosquitocidal Efficacy in Cattle under Laboratory Conditions". In: _Parasites &
+Vectors_. DOI: [10.1186/s13071-026-07263-x](https://doi.org/10.1186%2Fs13071-026-07263-x).
 
 ### 2025 
 Bartholomée, C., P. Taconet, M. Mercat, et
