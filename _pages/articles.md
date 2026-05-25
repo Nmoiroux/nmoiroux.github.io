@@ -24,6 +24,10 @@ https://hal.science/hal-05450492.
 
 
 ## Publications revues par les pairs / Peer-reviewed publications
+### In Press
+Pennetier, C., Zogo B., Tchiekoi B., [...] et Moiroux N. (2026). "Effectiveness of a dry season larviciding strategy to complement universal coverage with long-lasting insecticidal nets against malaria: a pragmatic cluster randomised controlled trial in Côte d’Ivoire". In: _The Lancet Regional Health Africa_.
+
+
 ### 2026 
 Dongmo, F. J., A. Porciani, N. Moiroux, et
 al. (2026). "Modelling the Impact of Ivermectin-Based
