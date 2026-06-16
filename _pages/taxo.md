@@ -20,18 +20,18 @@ Quelques ressources en lien avec la taxonomie des moustiques, leur identificatio
 
 ## Clés d'identification / Identification keys
 Moiroux, N. and N.
-Rahola (2025a). _Clé d'identification des espèces de
-Toxorhynchites (Diptera : Culicidae), femelles, Région Afrotropicale._. DOI:
+Rahola (2025a). _Clé d'identification des
+espèces de Toxorhynchites (Diptera : Culicidae), femelles, Région Afrotropicale._. DOI:
 [10.5281/zenodo.17530581](https://doi.org/10.5281%2Fzenodo.17530581).
 
 Moiroux, N. and N.
-Rahola (2025b). _Clé d'identification des genres de
-Moustiques (Diptera : Culicidae), mâles et femelles, Région Afrotropicale._. DOI:
-[10.5281/zenodo.17521013](https://doi.org/10.5281%2Fzenodo.17521013).
+Rahola (2025b). _Clé d'identification des
+genres de Moustiques (Diptera : Culicidae), mâles et femelles, Région Afrotropicale._.
+DOI: [10.5281/zenodo.17521013](https://doi.org/10.5281%2Fzenodo.17521013).
 
 Coetzee, M., N. Rahola, and N.
-Moiroux (2024). _Clé d'identification Des Anopheles
-Femelles (Diptera : Culicidae) d'Afrique Sub-Saharienne_. DOI:
+Moiroux (2024). _Clé d'identification
+Des Anopheles Femelles (Diptera : Culicidae) d'Afrique Sub-Saharienne_. DOI:
 [10.5281/zenodo.11505342](https://doi.org/10.5281%2Fzenodo.11505342).
 
 ## Outils / Tools
@@ -40,6 +40,6 @@ Femelles (Diptera : Culicidae) d'Afrique Sub-Saharienne_. DOI:
 <iframe height="600" width="100%" frameborder="no" src="https://nicolas-moiroux.shinyapps.io/InsectLabelR/"> </iframe>
 
 Moiroux, N. and N.
-Rahola (2026). _InsectLabelR: Create Labels for Insect in
-Collection_. DOI:
+Rahola (2026). _InsectLabelR: Create Labels
+for Insect in Collection_. DOI:
 [10.32614/CRAN.package.InsectLabelR](https://doi.org/10.32614%2FCRAN.package.InsectLabelR).
