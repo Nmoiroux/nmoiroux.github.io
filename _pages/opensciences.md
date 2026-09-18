@@ -6,12 +6,18 @@ output: github_document
 
 Cette page rassemble les ressources mises à disposition dans une démarche de science ouverte. S'y trouvent des packages R, des jeux de données et des codes développés dans le cadre de travaux de recherche ainsi que des supports de cours.
 
-Les packages R ont été développés pour répondre à des besoins méthodologiques concrets. Ils couvrent différents aspects de l’analyse et de la gestion de données en écologie et entomologie : **ExpBites** pour l’analyse de données de terrain liées aux interactions comportementale humain-vecteur, **ecoXCorr** pour l’étude des effets différés entre variables environnementales et biologiques, **modisfast** (développé par Paul Taconet) et **mfclim** pour l’accès et le téléchargement rapide de données météorologiques et environnementales, et **InsectLabelR** pour la génération automatisée d’étiquettes destinées aux collections entomologiques. Certain de ces packages ont des applications web associées permettant soit d'utiliser les fonctionalités du package sans connaissance du logiciel et du langage R soit d'illustrer les capacités du package. 
+Packages R
+Applications web
+Codes et données
+Supports de cours
 
 
 
 
 ## R packages
+
+Les packages R ont été développés pour répondre à des besoins méthodologiques concrets. Ils couvrent différents aspects de l’analyse et de la gestion de données en écologie et entomologie : **ExpBites** pour l’analyse de données de terrain liées aux interactions comportementale humain-vecteur, **ecoXCorr** pour l’étude des effets différés entre variables environnementales et biologiques, **modisfast** (développé par Paul Taconet) et **mfclim** pour l’accès et le téléchargement rapide de données météorologiques et environnementales, et **InsectLabelR** pour la génération automatisée d’étiquettes destinées aux collections entomologiques. Certain de ces packages ont des applications web associées permettant soit d'utiliser les fonctionalités du package sans connaissance du logiciel et du langage R soit d'illustrer les capacités du package. 
+
 Moiroux, N.
 (2026). _Mfclim: Download Archived Meteorological Data from 'Meteo-France'_. DOI:
 [10.32614/CRAN.package.mfclim](https://doi.org/10.32614%2FCRAN.package.mfclim).
