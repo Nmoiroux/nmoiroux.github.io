@@ -1,10 +1,9 @@
 ---
-title: ""
+title: "Curiculum vitae"
 permalink: /cv/
 output: github_document
 ---
 
-Accès rapide :
 * [Formation](#formation) 
 * [Postes et affectations](#postes-et-affectations)
 * [Animation et Gestion de la Recherche](#animation-et-gestion-de-la-recherche)
