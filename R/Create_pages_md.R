@@ -12,7 +12,7 @@
 
 
 ####### GENERATE SITE PAGES
-# First modify the .Rmd files in /Rmarkdown folder then run the code
+# First modify the .Rmd files in /Rmarkdown folder then run the code, then commit and push
 
 # pages to update (names of .Rmd files)
 pages <- c("articles", "opensciences", "taxo", "cv", "about") 
