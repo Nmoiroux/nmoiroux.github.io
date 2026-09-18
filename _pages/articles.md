@@ -8,7 +8,7 @@ output: github_document
 Cette page contient des [pré-prints](#preprints) (articles en cours de revision dans une revue scientifique) et des
 [publications revues par les pairs](#publications-revues-par-les-pairs) (publiées dans une revue).
 
-Accès par années (article puliés dans une revue) : 
+Accès par années (article publiés dans une revue) : 
 [2026](#2026)
 [2025](#2025)
 [2024](#2024)
