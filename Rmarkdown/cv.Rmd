@@ -5,10 +5,15 @@ output: github_document
 ---
 
 [Formation](#formation)
+
 [Postes et affectations](#postes-et-affectations)
+
 [Animation et Gestion de la Recherche](#animation-et-gestion-de-la-recherche)
+
 [Expertises](#expertise)
+
 [Directions de thèse](#directions-de-thèse)
+
 
 ## Formation
 * HDR, [Université de Monpellier](https://www.umontpellier.fr/), France, 2021. [Lien](https://hal.science/tel-03698171v1)
