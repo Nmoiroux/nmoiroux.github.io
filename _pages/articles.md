@@ -371,3 +371,4 @@ Yadouleton, A. W., G. Padonou, A. Asidi, et
 al. (2010). "Insecticide Resistance Status in Anopheles
 Gambiae in Southern Benin". In: _Malar J_ 9.1, p. 83. DOI:
 [10.1186/1475-2875-9-83](https://doi.org/10.1186%2F1475-2875-9-83).
+

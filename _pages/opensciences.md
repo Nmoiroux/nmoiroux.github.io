@@ -8,7 +8,7 @@ Cette page rassemble les ressources mises à disposition dans une démarche de s
 
 [Packages R](#r-packages)
 [Applications web](#apps)
-[Codes et données](#codes-&-data)
+[Codes et données](#codes-et-données)
 [Supports de cours](#supports-de-cours)
 
 
@@ -16,7 +16,7 @@ Cette page rassemble les ressources mises à disposition dans une démarche de s
 
 ## R packages
 
-Les packages R ont été développés pour répondre à des besoins méthodologiques concrets. Ils couvrent différents aspects de l’analyse et de la gestion de données en écologie et entomologie : **ExpBites** pour l’analyse de données de terrain liées aux interactions comportementale humain-vecteur, **ecoXCorr** pour l’étude des effets différés entre variables environnementales et biologiques, **modisfast** (développé par Paul Taconet) et **mfclim** pour l’accès et le téléchargement rapide de données météorologiques et environnementales, et **InsectLabelR** pour la génération automatisée d’étiquettes destinées aux collections entomologiques. Certain de ces packages ont des [applications web](#Apps) associées permettant soit d'utiliser les fonctionalités du package sans connaissance du logiciel et du langage R soit d'illustrer les capacités du package. 
+Les packages R ont été développés pour répondre à des besoins méthodologiques concrets. Ils couvrent différents aspects de l’analyse et de la gestion de données en écologie et entomologie : **ExpBites** pour l’analyse de données de terrain liées aux interactions comportementale humain-vecteur, **ecoXCorr** pour l’étude des effets différés entre variables environnementales et biologiques, **modisfast** (développé par Paul Taconet) et **mfclim** pour l’accès et le téléchargement rapide de données météorologiques et environnementales, et **InsectLabelR** pour la génération automatisée d’étiquettes destinées aux collections entomologiques. Certain de ces packages ont des [applications web](#apps) associées permettant soit d'utiliser les fonctionalités du package sans connaissance du logiciel et du langage R soit d'illustrer les capacités du package. 
 
 Moiroux, N.
 (2026). _Mfclim: Download Archived Meteorological Data from 'Meteo-France'_. DOI:
@@ -51,7 +51,7 @@ Earth Observation Data_. DOI:
 ### [InsectLabelR App](https://nicolas-moiroux.shinyapps.io/InsectLabelR/) :
 <iframe height="400" width="100%" frameborder="no" src="https://nicolas-moiroux.shinyapps.io/InsectLabelR/"> </iframe>
 
-## Codes & Data
+## Codes et Données
 Moiroux, N. and P.
 Taconet (2026). _Plasmodium Falciparum Parasite Density
 Recorded in People Youger than 21 y/o in Villages of South-Western Burkina Faso and Center Côte d'Ivoire
