@@ -4,7 +4,11 @@ permalink: /taxo/
 output: github_document
 ---
 
-Quelques ressources en lien avec la taxonomie des moustiques, leur identification et leur mise en collection.
+Quelques ressources en lien avec la taxonomie des moustiques, leur identification et leur mise en collection :
+
+[La collection ARIM](#collection-arim)
+[Des clés d'identification](#clés-didentification)
+[Outils](#outils)
 
 ## Collection ARIM
 [ARIM](https://arim.ird.fr/) (arthropodes d'intérêt médical) est hébergée à Montpellier (France) et propose au public plus de 3000 espèces de divers groupes de vecteurs et nuisants (moustiques, phlébotomes, simulies, glossines, culicoides, poux, puces, tiques, punaise, acariens...). 
@@ -18,7 +22,7 @@ Quelques ressources en lien avec la taxonomie des moustiques, leur identificatio
   
 
 
-## Clés d'identification / Identification keys
+## Clés d'identification
 Moiroux, N. and N.
 Rahola (2025a). _Clé d'identification des espèces de
 Toxorhynchites (Diptera : Culicidae), femelles, Région Afrotropicale._. DOI:
@@ -34,7 +38,7 @@ Moiroux (2024). _Clé d'identification Des Anopheles
 Femelles (Diptera : Culicidae) d'Afrique Sub-Saharienne_. DOI:
 [10.5281/zenodo.11505342](https://doi.org/10.5281%2Fzenodo.11505342).
 
-## Outils / Tools
+## Outils
 
 [InsectLabelR app](https://nicolas-moiroux.shinyapps.io/InsectLabelR/): l'application Web, associée au package R éponyme (*Cf infra*) pour la génération automatisée d’étiquettes destinées aux collections entomologiques.
 <iframe height="600" width="100%" frameborder="no" src="https://nicolas-moiroux.shinyapps.io/InsectLabelR/"> </iframe>

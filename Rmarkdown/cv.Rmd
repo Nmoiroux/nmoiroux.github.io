@@ -3,6 +3,13 @@ title: ""
 permalink: /cv/
 output: github_document
 ---
+
+[Formation](#formation)
+[Postes et affectations](#postes-et-affectations)
+[Animation et Gestion de la Recherche](#animation-et-gestion-de-la-recherche)
+[Expertises](#expertise)
+[Directions de thèse](#directions-de-thèse)
+
 ## Formation
 * HDR, [Université de Monpellier](https://www.umontpellier.fr/), France, 2021. [Lien](https://hal.science/tel-03698171v1)
 * Doctorat Biologie et Santé. Université Montpellier 2, France, 2012. [Lien](https://theses.hal.science/tel-00812118v1)
