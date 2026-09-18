@@ -6,9 +6,9 @@ output: github_document
 
 Quelques ressources en lien avec la taxonomie des moustiques, leur identification et leur mise en collection :
 
-[La collection ARIM](#collection-arim)
-[Des clés d'identification](#clés-didentification)
-[Outils](#outils)
+- [La collection ARIM](#collection-arim)
+- [Des clés d'identification](#clés-didentification)
+- [Des outils](#outils)
 
 ## Collection ARIM
 [ARIM](https://arim.ird.fr/) (arthropodes d'intérêt médical) est hébergée à Montpellier (France) et propose au public plus de 3000 espèces de divers groupes de vecteurs et nuisants (moustiques, phlébotomes, simulies, glossines, culicoides, poux, puces, tiques, punaise, acariens...). 
