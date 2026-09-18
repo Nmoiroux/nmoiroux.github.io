@@ -32,12 +32,17 @@ Les packages R ont été développés pour répondre à des besoins méthodologi
 
 ```{r results = "asis", echo = FALSE}
 # print
+
 NoCite(bib_s)
-PrintBibliography(bib_s,  .opts = list(check.entries = FALSE,
+temp_file <- tempfile()
+txt <- capture.output(PrintBibliography(bib_s,  .opts = list(check.entries = FALSE,
                                      bib.style = "authoryear",
                                            style = "markdown",
                                      no.print.fields = "urldate",
-                                           sorting = "ydnt"))
+                                           sorting = "ydnt")), file = temp_file)
+  clean <- clean_bib(temp_file)
+  writeLines(clean, temp_file, useBytes = TRUE)
+  writeLines(readLines(temp_file))
   cat("\n")
   
 ```
@@ -56,11 +61,15 @@ PrintBibliography(bib_s,  .opts = list(check.entries = FALSE,
 ```{r results = "asis", echo = FALSE}
 # print
 NoCite(bib_c)
-PrintBibliography(bib_c,  .opts = list(check.entries = FALSE,
+temp_file <- tempfile()
+txt <- capture.output(PrintBibliography(bib_c,  .opts = list(check.entries = FALSE,
                                      bib.style = "authoryear",
                                            style = "markdown",
                                      no.print.fields = "urldate",
-                                           sorting = "ydnt"))
+                                           sorting = "ydnt")), file = temp_file)
+  clean <- clean_bib(temp_file)
+  writeLines(clean, temp_file, useBytes = TRUE)
+  writeLines(readLines(temp_file))
   cat("\n")
   
 ```
@@ -69,11 +78,15 @@ PrintBibliography(bib_c,  .opts = list(check.entries = FALSE,
 ```{r results = "asis", echo = FALSE}
 # print
 NoCite(bib_p)
-PrintBibliography(bib_p,  .opts = list(check.entries = FALSE,
+temp_file <- tempfile()
+txt <- capture.output(PrintBibliography(bib_p,  .opts = list(check.entries = FALSE,
                                      bib.style = "authoryear",
                                            style = "markdown",
                                      no.print.fields = "urldate",
-                                           sorting = "ydnt"))
+                                           sorting = "ydnt")), file = temp_file)
+  clean <- clean_bib(temp_file)
+  writeLines(clean, temp_file, useBytes = TRUE)
+  writeLines(readLines(temp_file))
   cat("\n")
   
 ```
