@@ -18,6 +18,15 @@ year <- bib_a$year %>% unique() %>% unlist() %>% as.integer() %>% sort(decreasin
 
 
 ```
+Cette page contient des [pré-prints](#preprints) (articles en cours de revision dans une revue scientifique) et des
+[publications revues par les pairs](#publications-revues-par-les-pairs) (publiées dans une revue).
+
+Accès par années (article puliés dans une revue) : 
+```{r results = "asis", echo = FALSE}
+for (y in year){
+  cat(paste0("[",y,"](#",y,")\n"))
+}
+```
 
 ## Preprints
 ```{r results = "asis", echo = FALSE}
@@ -37,7 +46,7 @@ txt <- capture.output(PrintBibliography(bib_p,  .opts = list(check.entries = FAL
 ```
 
 
-## Publications revues par les pairs / Peer-reviewed publications
+## Publications revues par les pairs
 ```{r results = "asis", echo = FALSE}
 # print
 for (y in year){

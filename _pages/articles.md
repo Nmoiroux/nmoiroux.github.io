@@ -5,6 +5,26 @@ author_profile: true
 output: github_document
 ---
 
+Cette page contient des [pré-prints](#preprints) (articles en cours de revision dans une revue scientifique) et des
+[publications revues par les pairs](#publications-revues-par-les-pairs) (publiées dans une revue).
+
+Accès par années (article puliés dans une revue) : 
+[2026](#2026)
+[2025](#2025)
+[2024](#2024)
+[2023](#2023)
+[2022](#2022)
+[2021](#2021)
+[2020](#2020)
+[2019](#2019)
+[2018](#2018)
+[2017](#2017)
+[2015](#2015)
+[2014](#2014)
+[2013](#2013)
+[2012](#2012)
+[2011](#2011)
+[2010](#2010)
 
 ## Preprints
 Bartholomee, C., C. Garcia-Marin, C. Sutter, et
@@ -23,7 +43,7 @@ Malaria Transmission in Multi-Species, Phenotypically Structured Mosquito Popula
 https://hal.science/hal-05450492.
 
 
-## Publications revues par les pairs / Peer-reviewed publications
+## Publications revues par les pairs
 ### 2026 
 Dongmo, F. J., A. Porciani, N. Moiroux, et
 al. (2026). "Modelling the Impact of Ivermectin-Based

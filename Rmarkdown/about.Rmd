@@ -11,6 +11,8 @@ Chercheur en écologie et entomologie médicale à l'[Institut de Recherche pour
 
 Impliqué dans des projets collaboratifs internationaux, nous contribuons, avec collègues et étudiants, à notre compréhension des effets de l'environnement sur les populations et communautés de vecteurs ainsi qu'au développement de méthodes d’identification, de protocoles opérationnels et d’outils reproductibles pour la recherche et la santé publique. À travers ces activités, nous produisons des connaissances utiles à la surveillance entomologique et au contrôle des maladies vectorielles, tout en favorisant la formation et le partage ouvert des données et des méthodes.
 
+Ce site est à la fois un moyen de visibiliser mon travail et un support d'apprentissage personel pour la création de site internet utilisant uniquement des outils en accès gratuit et ouvert. Le site est hébergé sur github, est basé sur [academicpages](https://github.com/academicpages/academicpages.github.io) et maintenu en utilisant les logiciels [R](https://www.r-project.org/) et [Zotero](https://www.zotero.org/).
+
 ## News
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7502361555322396673?collapsed=1" 
