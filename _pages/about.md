@@ -13,7 +13,7 @@ Impliqué dans des projets collaboratifs internationaux, nous contribuons, avec 
 
 ## News
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7452266172491657216?collapsed=1" 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7502361555322396673?collapsed=1" 
 height="723" 
 width="100%" 
 frameborder="0" 
@@ -24,7 +24,7 @@ title="Post intégré"
 ---
 
 <iframe 
-src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7449397199597264897?collapsed=1"
+src="https://www.linkedin.com/embed/feed/update/urn:li:share:7499212383647735809?collapsed=1"
 height="723" 
 width="100%" 
 frameborder="0" 

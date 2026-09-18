@@ -30,8 +30,8 @@ Rahola (2025b). _Clé d'identification des genres de Moustiques
 [10.5281/zenodo.17521013](https://doi.org/10.5281%2Fzenodo.17521013).
 
 Coetzee, M., N. Rahola, and N.
-Moiroux (2024). _Clé d'identification Des Anopheles Femelles
-(Diptera : Culicidae) d'Afrique Sub-Saharienne_. DOI:
+Moiroux (2024). _Clé d'identification Des Anopheles
+Femelles (Diptera : Culicidae) d'Afrique Sub-Saharienne_. DOI:
 [10.5281/zenodo.11505342](https://doi.org/10.5281%2Fzenodo.11505342).
 
 ## Outils / Tools

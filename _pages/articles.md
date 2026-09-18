@@ -18,8 +18,8 @@ Albopictus Egg Density: Three Years of Surveillance in Montpellier (France)_. DO
 [10.64898/2026.05.15.725325](https://doi.org/10.64898%2F2026.05.15.725325).
 
 Seck, F., O. Seydi, N. Moiroux, et
-al. (2026). _Eco-Epidemiological Thresholds for Malaria
-Transmission in Multi-Species, Phenotypically Structured Mosquito Populations_.
+al. (2026). _Eco-Epidemiological Thresholds for
+Malaria Transmission in Multi-Species, Phenotypically Structured Mosquito Populations_.
 https://hal.science/hal-05450492.
 
 
@@ -32,9 +32,9 @@ Timing". In: _eBioMedicine_ 127, p. 106278. DOI:
 [10.1016/j.ebiom.2026.106278](https://doi.org/10.1016%2Fj.ebiom.2026.106278).
 
 Pennetier, C., B. Zogo, B. N. Tchiekoi, et
-al. (2026). "Effectiveness of a Dry Season Larviciding Strategy
-to Complement Universal Coverage with Long-Lasting Insecticidal Nets against Malaria: A Pragmatic Cluster
-Randomised Controlled Trial in Côte d'Ivoire". In: _The Lancet Regional Health - Africa_. DOI:
+al. (2026). "Effectiveness of a Dry Season Larviciding
+Strategy to Complement Universal Coverage with Long-Lasting Insecticidal Nets against Malaria: A Pragmatic
+Cluster Randomised Controlled Trial in Côte d'Ivoire". In: _The Lancet Regional Health - Africa_. DOI:
 [10.1016/j.lanafr.2026.100085](https://doi.org/10.1016%2Fj.lanafr.2026.100085).
 
 Pooda, S. H., A. M. Bandaogo, P. A. Agboho, et
@@ -68,9 +68,9 @@ Journal_ 5. DOI: [10.24072/pcjournal.632](https://doi.org/10.24072%2Fpcjournal.6
 
 Moiroux, N., I. Zongo, S. Assi, et
 al. (2025). "Efficacy of Non-Pyrethroid Indoor Residual
-Spraying or Intensive Behaviour Change Communication in Combination with Long-Lasting Insecticidal Nets for
-Malaria Control in West Africa: A Pragmatic, Cluster-Randomised, Controlled Trial". In: _The Lancet Global
-Health_ 13.9, pp. e1605-e1616. DOI:
+Spraying or Intensive Behaviour Change Communication in Combination with Long-Lasting Insecticidal Nets
+for Malaria Control in West Africa: A Pragmatic, Cluster-Randomised, Controlled Trial". In: _The Lancet
+Global Health_ 13.9, pp. e1605-e1616. DOI:
 [10.1016/S2214-109X(25)00216-5](https://doi.org/10.1016%2FS2214-109X%2825%2900216-5).
 
 Tchiekoi, N. B., M. B. Zogo, L. P. Ahoua Alou, et
@@ -96,13 +96,13 @@ _PloS One_ 19.8, p. e0308293. DOI:
 [10.1371/journal.pone.0308293](https://doi.org/10.1371%2Fjournal.pone.0308293).
 
 Taconet, P. and N. Moiroux (2024). "Modisfast: An R
-Package for Fast and Efficient Access to MODIS, VIIRS and GPM Earth Observation Data". In: _Journal of Open
-Source Software_ 9.103, p. 7343. DOI: [10.21105/joss.07343](https://doi.org/10.21105%2Fjoss.07343).
+Package for Fast and Efficient Access to MODIS, VIIRS and GPM Earth Observation Data". In: _Journal of
+Open Source Software_ 9.103, p. 7343. DOI: [10.21105/joss.07343](https://doi.org/10.21105%2Fjoss.07343).
 
 Taconet, P., D. D. Soma, B. Zogo, et
-al. (2024). "Physiological and behavioural resistance
-of malaria vectors in rural West-Africa: a data mining study to address their fine-scale spatiotemporal
-heterogeneity, drivers, and predictability". In: _Peer Community Journal_ 4. DOI:
+al. (2024). "Physiological and behavioural
+resistance of malaria vectors in rural West-Africa: a data mining study to address their fine-scale
+spatiotemporal heterogeneity, drivers, and predictability". In: _Peer Community Journal_ 4. DOI:
 [10.24072/pcjournal.367](https://doi.org/10.24072%2Fpcjournal.367).
 
 Taconet, P., B. Zogo, L. P. A. Alou, et
@@ -125,14 +125,15 @@ Transmission in Urban Lowland Areas in Bouaké, Côte d'Ivoire". In: _Malaria Jo
 [10.1186/s12936-023-04457-x](https://doi.org/10.1186%2Fs12936-023-04457-x).
 
 Djènontin, A., D. Alfa, A.
-Bouraima, et al. (2023). "Durability of the
-Deltamethrin-Treated Polypropylene Long-Lasting Net LifeNet® in a Pyrethroid Resistance Area in South
+Bouraima, et al. (2023). "Durability of
+the Deltamethrin-Treated Polypropylene Long-Lasting Net LifeNet® in a Pyrethroid Resistance Area in South
 Western Benin: A Phase III Trial". In: _PLOS ONE_ 18.9, p. e0291755. DOI:
 [10.1371/journal.pone.0291755](https://doi.org/10.1371%2Fjournal.pone.0291755).
 
 Ngou, C. M., A. N. Bayibéki, L. Abate, et
 al. (2023). "Influence of the Sickle Cell Trait on Plasmodium
-Falciparum Infectivity from Naturally Infected Gametocyte Carriers". In: _BMC Infectious Diseases_ 23.1, p.317. DOI: [10.1186/s12879-023-08134-x](https://doi.org/10.1186%2Fs12879-023-08134-x).
+Falciparum Infectivity from Naturally Infected Gametocyte Carriers". In: _BMC Infectious Diseases_ 23.1,
+p. 317. DOI: [10.1186/s12879-023-08134-x](https://doi.org/10.1186%2Fs12879-023-08134-x).
 
 Pooda, S. H., N. Moiroux, A. Porciani, et
 al. (2023). "Proof-of-Concept Study for a Long-Acting
@@ -152,8 +153,8 @@ Journal_ 3. DOI: [10.24072/pcjournal.288](https://doi.org/10.24072%2Fpcjournal.2
 ### 2022 
 Costantini, C., F. Chandre, V. Corbel, et
 al. (2022). "Reply to Wagman et~al.: Data-driven Assessments
-Should Establish the Landscape of What Is 'within Reach' of Malaria Transmission Control". In: _Proceedings
-of the National Academy of Sciences_ 119.38, p. e2211931119. DOI:
+Should Establish the Landscape of What Is 'within Reach' of Malaria Transmission Control". In:
+_Proceedings of the National Academy of Sciences_ 119.38, p. e2211931119. DOI:
 [10.1073/pnas.2211931119](https://doi.org/10.1073%2Fpnas.2211931119).
 
 Fournet, F., A. M. Adja, K. A. Adou, et
@@ -196,16 +197,16 @@ Exposure to Malaria Vectors Bites to Address Residual Malaria Transmission durin
 Rural Southwest Burkina Faso". In: _BMC Public Health_ 21.1, p. 251. DOI:
 [10.1186/s12889-021-10304-y](https://doi.org/10.1186%2Fs12889-021-10304-y).
 
-Taconet, P., A. Porciani, D. D. Soma, et
-al. (2021). "Data-Driven and Interpretable
+Taconet, P., A. Porciani, D. D. Soma,
+et al. (2021). "Data-Driven and Interpretable
 Machine-Learning Modeling to Explore the Fine-Scale Environmental Determinants of Malaria Vectors Biting
 Rates in Rural Burkina Faso". In: _Parasites & Vectors_ 14.1, p. 345. DOI:
 [10.1186/s13071-021-04851-x](https://doi.org/10.1186%2Fs13071-021-04851-x).
 
 Traoré, A. S., A. Porciani, N. Moiroux, et
-al. (2021). "Effects of Insemination and Blood-Feeding on
-Locomotor Activity of Wild-Derived Females of the Malaria Mosquito Anopheles Coluzzii". In: _Parasites &
-Vectors_ 14.1, p. 457. DOI: [10.1186/s13071-021-04967-0](https://doi.org/10.1186%2Fs13071-021-04967-0).
+al. (2021). "Effects of Insemination and Blood-Feeding
+on Locomotor Activity of Wild-Derived Females of the Malaria Mosquito Anopheles Coluzzii". In: _Parasites
+& Vectors_ 14.1, p. 457. DOI: [10.1186/s13071-021-04967-0](https://doi.org/10.1186%2Fs13071-021-04967-0).
 
 ### 2020 
 Diop, M. M., F. Chandre, M. Rossignol, et
@@ -214,14 +215,14 @@ Biting Efficiency of Kdr-resistant Anopheles Gambiae". In: _bioRxiv 653980, ver 
 recommended by PCI Zoology_. DOI: [10.1101/653980](https://doi.org/10.1101%2F653980).
 
 Soma, D. D., B. M. Zogo, A. Somé, et
-al. (2020). "Anopheles Bionomics, Insecticide Resistance and
-Malaria Transmission in Southwest Burkina Faso: A Pre-Intervention Study". In: _PLoS ONE_ 15.8. DOI:
+al. (2020). "Anopheles Bionomics, Insecticide Resistance
+and Malaria Transmission in Southwest Burkina Faso: A Pre-Intervention Study". In: _PLoS ONE_ 15.8. DOI:
 [10.1371/journal.pone.0236920](https://doi.org/10.1371%2Fjournal.pone.0236920).
 
 ### 2019 
 Carrasco, D., T. Lefèvre, N. Moiroux, et
-al. (2019). "Behavioural Adaptations of Mosquito Vectors
-to Insecticide Control". In: _Current Opinion in Insect Science_ 34, pp. 48-54. DOI:
+al. (2019). "Behavioural Adaptations of Mosquito
+Vectors to Insecticide Control". In: _Current Opinion in Insect Science_ 34, pp. 48-54. DOI:
 [10.1016/j.cois.2019.03.005](https://doi.org/10.1016%2Fj.cois.2019.03.005).
 
 d'Almeida, T. C., I. Sadissou, M. Sagbohan, et
@@ -234,8 +235,8 @@ Malaria-Infected Mosquitoes". In: _Scientific Reports_ 9.1, p. 6664. DOI:
 [10.1038/s41598-019-43195-6](https://doi.org/10.1038%2Fs41598-019-43195-6).
 
 Zogo, B., A. A. Koffi, L. P. A. Alou, et
-al. (2019). "Identification and Characterization of
-Anopheles Spp. Breeding Habitats in the Korhogo Area in Northern Côte d'Ivoire: A Study Prior to a
+al. (2019). "Identification and Characterization
+of Anopheles Spp. Breeding Habitats in the Korhogo Area in Northern Côte d'Ivoire: A Study Prior to a
 Bti-based Larviciding Intervention". In: _Parasites & Vectors_ 12.1, p. 146. DOI:
 [10.1186/s13071-019-3404-0](https://doi.org/10.1186%2Fs13071-019-3404-0).
 
@@ -246,17 +247,16 @@ Study". In: _Parasite_ 26, p. 40. DOI:
 [10.1051/parasite/2019040](https://doi.org/10.1051%2Fparasite%2F2019040).
 
 Zogo, B., B. N. Tchiekoi, A. A. Koffi, et
-al. (2019). "Impact of Sunlight Exposure on the Residual Efficacy of
-Biolarvicides Bacillus Thuringiensis Israelensis and Bacillus Sphaericus against the Main Malaria Vector,
-Anopheles Gambiae". In: _Malaria Journal_ 18.1, p. 55. DOI:
+al. (2019). "Impact of Sunlight Exposure on the Residual Efficacy
+of Biolarvicides Bacillus Thuringiensis Israelensis and Bacillus Sphaericus against the Main Malaria
+Vector, Anopheles Gambiae". In: _Malaria Journal_ 18.1, p. 55. DOI:
 [10.1186/s12936-019-2687-0](https://doi.org/10.1186%2Fs12936-019-2687-0).
 
 ### 2018 
 Djènontin, A., N. Moiroux, A. Bouraïma, et
 al. (2018). "Field Efficacy of a New Deltamethrin Long Lasting
-Insecticidal Net (LifeNet\copyright) against Wild Pyrethroid-Resistant Anopheles Gambiae in Benin". In:
-_BMC public health_ 18.1, p. 947. DOI:
-[10.1186/s12889-018-5876-9](https://doi.org/10.1186%2Fs12889-018-5876-9).
+Insecticidal Net (LifeNet) against Wild Pyrethroid-Resistant Anopheles Gambiae in Benin". In: _BMC public
+health_ 18.1, p. 947. DOI: [10.1186/s12889-018-5876-9](https://doi.org/10.1186%2Fs12889-018-5876-9).
 
 Moiroux, N., A. Djènontin, B. Zogo, et
 al. (2018). "Small-Scale Field Testing of Alpha-Cypermethrin
@@ -296,12 +296,14 @@ Hut Trial". In: _Parasite (Paris, France)_ 22, p. 28. DOI:
 ### 2014 
 Moiroux, N., G. B. Damien, M. Egrot, et
 al. (2014). "Human Exposure to Early Morning Anopheles Funestus
-Biting Behavior and Personal Protection Provided by Long-Lasting Insecticidal Nets". In: _PloS One_ 9.8, p.
-e104967. DOI: [10.1371/journal.pone.0104967](https://doi.org/10.1371%2Fjournal.pone.0104967).
+Biting Behavior and Personal Protection Provided by Long-Lasting Insecticidal Nets". In: _PloS One_ 9.8,
+p. e104967. DOI: [10.1371/journal.pone.0104967](https://doi.org/10.1371%2Fjournal.pone.0104967).
 
-Moiroux, N., A. Djènontin, A. S. Bio-Bangana,
-et al. (2014). "Spatio-Temporal Analysis of Abundances
-of Three Malaria Vector Species in Southern Benin Using Zero-Truncated Models". In: _Parasites & Vectors_7, p. 103. DOI: [10.1186/1756-3305-7-103](https://doi.org/10.1186%2F1756-3305-7-103).
+Moiroux, N., A. Djènontin, A. S.
+Bio-Bangana, et al. (2014). "Spatio-Temporal Analysis
+of Abundances of Three Malaria Vector Species in Southern Benin Using Zero-Truncated Models". In:
+_Parasites & Vectors_ 7, p. 103. DOI:
+[10.1186/1756-3305-7-103](https://doi.org/10.1186%2F1756-3305-7-103).
 
 ### 2013 
 Assogba, B. S., L. Djogbénou, J. Saizonou, et
@@ -310,8 +312,8 @@ Behaviour between Anopheles Coluzzii and Anopheles Melas in a Sympatry Area of B
 DOI: [10.1016/j.actatropica.2013.09.006](https://doi.org/10.1016%2Fj.actatropica.2013.09.006).
 
 Moiroux, N., A. Bio-Bangana, A. Djenontin, et
-al. (2013). "Modelling the Risk of Being Bitten by Malaria Vectors in
-a Vector Control Area in Southern Benin, West Africa." In: _Parasit Vectors_ 6.1, p. 71. DOI:
+al. (2013). "Modelling the Risk of Being Bitten by Malaria Vectors
+in a Vector Control Area in Southern Benin, West Africa." In: _Parasit Vectors_ 6.1, p. 71. DOI:
 [10.1186/1756-3305-6-71](https://doi.org/10.1186%2F1756-3305-6-71).
 
 Moiroux, N., C. Pennetier, and V.
@@ -326,9 +328,9 @@ Malaria Vectors Density". In: _PLoS One_ 7.11, p. e50452. DOI:
 [10.1371/journal.pone.0050452](https://doi.org/10.1371%2Fjournal.pone.0050452).
 
 Corbel, V., M. Akogbeto, G. B. Damien, et
-al. (2012). "Combination of Malaria Vector Control Interventions
-in Pyrethroid Resistance Area in Benin: A Cluster Randomised Controlled Trial". In: _Lancet Infect Dis_
-12.8, pp. 617-26. DOI:
+al. (2012). "Combination of Malaria Vector Control
+Interventions in Pyrethroid Resistance Area in Benin: A Cluster Randomised Controlled Trial". In: _Lancet
+Infect Dis_ 12.8, pp. 617-26. DOI:
 [10.1016/S1473-3099(12)70081-6](https://doi.org/10.1016%2FS1473-3099%2812%2970081-6).
 
 Elanga Ndille, E., S. Doucoure, G. Damien, et

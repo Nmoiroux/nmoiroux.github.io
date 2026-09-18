@@ -25,7 +25,7 @@ output: github_document
 * Membre du Réseau Anopheles Biology & Control (ABC)
 
 ## Directions de thèses
-AHOUANGBENON Guenole Joseph, Université Cheikh Anta Diop. 2025-2028. Effets des changements globaux sur la diversité des moustiques et des moustiques vecteurs de pathogènes en Afrique de l'Ouest.
+FAYE Mohamed, Université Cheikh Anta Diop. 2026-2029. Mesure de la diversité des moustiques et des moustiques vecteurs de pathogènes en Afrique de l'Ouest.
 
 [BARTHOLOMEE Colombine](https://www.linkedin.com/in/colombine-bartholomee-a7354915a/), Université de Montpellier. 2022-2025. Soutenue 12/2025. Impact des infrastructures vertes sur la dynamique d’Aedes albopictus et la transmission d’arbovirus en milieu urbain.
 

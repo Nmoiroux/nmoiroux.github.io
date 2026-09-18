@@ -96,11 +96,6 @@ Moiroux, N., C. Pennetier, R. K. Dabiré, et
 al. (2023). _REACT Project (Burkina Faso and Côte d'Ivoire,
 2016-2018): Study Sites Information_. DOI: [10.23708/IX5Z7U](https://doi.org/10.23708%2FIX5Z7U).
 
-Soma, D. D., B. Zogo, P. Taconet, et
-al. (2023). _Anopheles Collections in the Health Districts of
-Korhogo (Côte d'Ivoire) and Diébougou (Burkina Faso) (2016-2018)_. DOI:
-[10.15468/v8fvyn](https://doi.org/10.15468%2Fv8fvyn).
-
 Taconet, P., R. K. Dabiré, and N.
 Moiroux (2023). _Land Use Land Cover Very High Resolution Map (1.5-m) for
 the Area of Diébougou, Burkina Faso, 2018_. DOI: [10.23708/ARSJNB](https://doi.org/10.23708%2FARSJNB).
@@ -130,11 +125,11 @@ Moiroux, N.
 (2023a). _Le Concept Unifié d'espèce et Les Culicidae_. Dakar, Sénégal. DOI:
 [10.5281/zenodo.20081586](https://doi.org/10.5281%2Fzenodo.20081586).
 
-Moiroux, N. (2020). _Ecological Niches and
-Vector-Borne Pathogens Transmission_. Lecture. Montpellier (FRA), France. DOI:
+Moiroux, N. (2020). _Ecological Niches
+and Vector-Borne Pathogens Transmission_. Lecture. Montpellier (FRA), France. DOI:
 [10.5281/zenodo.4263280](https://doi.org/10.5281%2Fzenodo.4263280).
 
 Moiroux,
-N. (2019). _Comportement Des Vecteurs, Lutte Anti-Vectorielle
-et Modélisation de La Transmission Entomologique Des Plasmodiums Humains_. Bobo-Dioulasso, Burkina Faso.
-DOI: [10.5281/zenodo.19356147](https://doi.org/10.5281%2Fzenodo.19356147).
+N. (2019). _Comportement Des Vecteurs, Lutte
+Anti-Vectorielle et Modélisation de La Transmission Entomologique Des Plasmodiums Humains_.
+Bobo-Dioulasso, Burkina Faso. DOI: [10.5281/zenodo.19356147](https://doi.org/10.5281%2Fzenodo.19356147).
