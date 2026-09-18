@@ -6,10 +6,10 @@ output: github_document
 
 Cette page rassemble les ressources mises à disposition dans une démarche de science ouverte. S'y trouvent des packages R, des jeux de données et des codes développés dans le cadre de travaux de recherche ainsi que des supports de cours.
 
-[Packages R](#R-packages)
-[Applications web](#Apps)
-[Codes et données](#Codes-&-Data)
-[Supports de cours](#Supports-de-cours)
+[Packages R](#r-packages)
+[Applications web](#apps)
+[Codes et données](#codes-&-data)
+[Supports de cours](#supports-de-cours)
 
 
 
