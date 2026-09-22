@@ -37,10 +37,10 @@ txt <- capture.output(PrintBibliography(bib_p,  .opts = list(check.entries = FAL
                                            style = "markdown",
                                      no.print.fields = c("urldate","issn"),
                                            sorting = "ydnt")), file = temp_file)
-  clean <- clean_bib(temp_file)
-  writeLines(clean, temp_file, useBytes = TRUE)
-  writeLines(readLines(temp_file))
-  cat("\n")
+clean <- clean_bib(temp_file)
+writeLines(clean, temp_file, useBytes = TRUE)
+writeLines(readLines(temp_file))
+cat("\n")
   
 ```
 
