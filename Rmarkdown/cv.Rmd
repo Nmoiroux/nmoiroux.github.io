@@ -20,7 +20,7 @@ output: github_document
 
 ## Postes et affectations
 * Unité Mixte de Recherche [MIVEGEC](https://mivegec.fr/fr) (2015-présent), [Institut de Recherche pour le Développement](https://www.ird.fr).
-* Pôle de Zoologie médicale, [Institut Pasteur de Dakar](https://institutpasteurdakar.sn) (2024-.présent), Dakar, Sénégal. 
+* Pôle de Zoologie médicale, [Institut Pasteur de Dakar](https://institutpasteurdakar.sn) (2024-présent), Dakar, Sénégal. 
 * [Institut de Recherche en Sciences de la Santé](https://irss-cnrst.bf/) (2016–2020), Bobo-Dioulasso, Burkina Faso.
 
 
