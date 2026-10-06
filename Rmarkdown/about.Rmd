@@ -15,7 +15,7 @@ Ce site est à la fois un moyen de visibiliser mon travail et un support d'appre
 
 ## News
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7502361555322396673?collapsed=1" 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7513178954099466240" 
 height="723" 
 width="100%" 
 frameborder="0" 

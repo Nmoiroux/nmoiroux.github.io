@@ -20,7 +20,7 @@ year <- bib_a$year %>% unique() %>% unlist() %>% as.integer() %>% sort(decreasin
 ```
 - [pré-prints](#preprints) (articles en cours de revision dans une revue scientifique)
 - [publications revues par les pairs](#publications-revues-par-les-pairs) (publiées dans une revue).
-  - Accès par années (article publiés dans une revue) : 
+  - Accès par années : 
 ```{r results = "asis", echo = FALSE}
 for (y in year){
   cat(paste0("[",y,"](#",y,")\n"))
