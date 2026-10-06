@@ -18,28 +18,26 @@ Cette page rassemble les ressources mises à disposition dans une démarche de s
 
 Les packages R ont été développés pour répondre à des besoins méthodologiques concrets. Ils couvrent différents aspects de l’analyse et de la gestion de données en écologie et entomologie : **ExpBites** pour l’analyse de données de terrain liées aux interactions comportementale humain-vecteur, **ecoXCorr** pour l’étude des effets différés entre variables environnementales et biologiques, **modisfast** (développé par Paul Taconet) et **mfclim** pour l’accès et le téléchargement rapide de données météorologiques et environnementales, et **InsectLabelR** pour la génération automatisée d’étiquettes destinées aux collections entomologiques. Certain de ces packages ont des [applications web](#apps) associées permettant soit d'utiliser les fonctionalités du package sans connaissance du logiciel et du langage R soit d'illustrer les capacités du package. 
 
-Moiroux, N.
-(2026). _Mfclim: Download Archived Meteorological Data from 'Meteo-France'_. DOI:
+Moiroux, N. (2026).
+_Mfclim: Download Archived Meteorological Data from 'Meteo-France'_. DOI:
 [10.32614/CRAN.package.mfclim](https://doi.org/10.32614%2FCRAN.package.mfclim).
 
 Moiroux, N., C. Bartholomée, and P.
-Taconet (2026). _ecoXCorr: Lagged Cross-Correlation
-Analysis of Environmental Time Series_. DOI:
+Taconet (2026). _ecoXCorr: Lagged Cross-Correlation Analysis
+of Environmental Time Series_. DOI:
 [10.32614/CRAN.package.ecoXCorr](https://doi.org/10.32614%2FCRAN.package.ecoXCorr).
 
 Moiroux, N. and N.
 Rahola (2026). _InsectLabelR: Create Labels for Insect in
-Collection_. DOI:
-[10.32614/CRAN.package.InsectLabelR](https://doi.org/10.32614%2FCRAN.package.InsectLabelR).
+Collection_. DOI: [10.32614/CRAN.package.InsectLabelR](https://doi.org/10.32614%2FCRAN.package.InsectLabelR).
 
-Moiroux, N.
-(2025). _ExpBites: Analyzing Human Exposure to Mosquito Biting_. DOI:
+Moiroux, N. (2025).
+_ExpBites: Analyzing Human Exposure to Mosquito Biting_. DOI:
 [10.32614/CRAN.package.ExpBites](https://doi.org/10.32614%2FCRAN.package.ExpBites).
 
 Taconet, P. and N.
-Moiroux (2025). _Modisfast: Fast and Efficient Access to MODIS
-Earth Observation Data_. DOI:
-[10.32614/CRAN.package.modisfast](https://doi.org/10.32614%2FCRAN.package.modisfast).
+Moiroux (2025). _Modisfast: Fast and Efficient Access to MODIS Earth
+Observation Data_. DOI: [10.32614/CRAN.package.modisfast](https://doi.org/10.32614%2FCRAN.package.modisfast).
 
 ## Apps
 ### [ExpBites App](https://nicolas-moiroux.shinyapps.io/ExpBites/) :
@@ -53,62 +51,61 @@ Earth Observation Data_. DOI:
 
 ## Codes et Données
 Moiroux, N. and P.
-Taconet (2026). _Plasmodium Falciparum Parasite Density
-Recorded in People Youger than 21 y/o in Villages of South-Western Burkina Faso and Center Côte d'Ivoire
-during the Pre-Intervention Period of the REACT Randomized Controled Trial_. DOI:
+Taconet (2026). _Plasmodium Falciparum Parasite Density Recorded
+in People Youger than 21 y/o in Villages of South-Western Burkina Faso and Center Côte d'Ivoire during the
+Pre-Intervention Period of the REACT Randomized Controled Trial_. DOI:
 [10.23708/PMGEXH](https://doi.org/10.23708%2FPMGEXH).
 
 Moiroux, N., P. Taconet, B. Zogo, et
-al. (2026). _Protocol, Replication Data and Codes for:
-Effectiveness of a Dry Season Larviciding Strategy to Complement Universal Coverage with Long-Lasting
-Insecticidal Nets against Malaria._ DOI: [10.23708/PKVLDK](https://doi.org/10.23708%2FPKVLDK).
+al. (2026). _Protocol, Replication Data and Codes for: Effectiveness
+of a Dry Season Larviciding Strategy to Complement Universal Coverage with Long-Lasting Insecticidal Nets
+against Malaria._ DOI: [10.23708/PKVLDK](https://doi.org/10.23708%2FPKVLDK).
 
 Bartholomée, C. and N.
-Moiroux (2025). _Open-Access Code Used to Model Parity
-Rate and Simulate the Basic Reproduction Number (R0) of Arboviruses Transmitted by Aedes Albopictus in
-Montpellier, France_. Zenodo. DOI: [10.5281/zenodo.15854095](https://doi.org/10.5281%2Fzenodo.15854095).
+Moiroux (2025). _Open-Access Code Used to Model Parity Rate
+and Simulate the Basic Reproduction Number (R0) of Arboviruses Transmitted by Aedes Albopictus in Montpellier,
+France_. Zenodo. DOI: [10.5281/zenodo.15854095](https://doi.org/10.5281%2Fzenodo.15854095).
 
-Moiroux,
-N. (2025). _Supplementary Materials, as Well as Codes and
-Data Necessary to Reproduce the Analyses Presented in the Study Entitled "Potential of Attractive
-Insecticide-Treated Nets (ITNs) in Reducing Malaria Transmission: A Modeling Study_. Zenodo. DOI:
-[10.5281/zenodo.17142100](https://doi.org/10.5281%2Fzenodo.17142100).
+Moiroux, N.
+(2025). _Supplementary Materials, as Well as Codes and Data Necessary to Reproduce the Analyses Presented in the
+Study Entitled "Potential of Attractive Insecticide-Treated Nets (ITNs) in Reducing Malaria Transmission: A
+Modeling Study_. Zenodo. DOI: [10.5281/zenodo.17142100](https://doi.org/10.5281%2Fzenodo.17142100).
 
 Moiroux, N., P. Taconet, D. D. Soma, et
-al. (2025). _Protocol, Replication Data and Codes for:
-Non-pyrethroid Indoor Residual Spraying or Intensive Behavior Change Communication in Combination with
-Long-Lasting Insecticidal Nets against Malaria Disease in West Africa: A Pragmatic Transnational
-Cluster-Randomized Controlled Trial._ DOI: [10.23708/MZ7KZZ](https://doi.org/10.23708%2FMZ7KZZ).
+al. (2025). _Protocol, Replication Data and Codes for: Non-Pyrethroid
+Indoor Residual Spraying or Intensive Behavior Change Communication in Combination with Long-Lasting
+Insecticidal Nets against Malaria Disease in West Africa: A Pragmatic Transnational Cluster-Randomized
+Controlled Trial._ DOI: [10.23708/MZ7KZZ](https://doi.org/10.23708%2FMZ7KZZ).
 
 Bartholomée, C., P. Taconet, M. Mercat, et
 al. (2024). _Monthly Mosquito Sampling in Montpellier
 (Occitanie), France, 2023_. DOI: [10.15468/4qafbu](https://doi.org/10.15468%2F4qafbu).
 
 Kambou, S. S., A. Valente, P. Agnew, et
-al. (2024). _Replication Data and R Code for: Non-contact Detection
-of Pyrethroids Widely Used in Vector Control by Anopheles Mosquitoes_. DOI:
+al. (2024). _Replication Data and R Code for: Non-Contact Detection of
+Pyrethroids Widely Used in Vector Control by Anopheles Mosquitoes_. DOI:
 [10.23708/IMJ1WG](https://doi.org/10.23708%2FIMJ1WG).
 
 Soma, D. D., B. Zogo, P. Taconet, et
-al. (2024). _Anopheles Collections in the Health Districts of
-Korhogo (Côte d'Ivoire) and Diébougou (Burkina Faso) (2016-2018)_. DOI:
+al. (2024). _Anopheles Collections in the Health Districts of Korhogo
+(Côte d'Ivoire) and Diébougou (Burkina Faso) (2016-2018)_. DOI:
 [10.15468/v8fvyn](https://doi.org/10.15468%2Fv8fvyn).
 
-Moiroux, N. and S. Bio-Bangana
-(2023). _Land Use Land Cover High Resolution Map (10 m) for the Area of Tori-Bossito, Benin, 2010-2011_.
-DOI: [10.23708/U6WTLE](https://doi.org/10.23708%2FU6WTLE).
+Moiroux, N. and S. Bio-Bangana (2023).
+_Land Use Land Cover High Resolution Map (10 m) for the Area of Tori-Bossito, Benin, 2010-2011_. DOI:
+[10.23708/U6WTLE](https://doi.org/10.23708%2FU6WTLE).
 
 Moiroux, N., C. Pennetier, R. K. Dabiré, et
-al. (2023). _REACT Project (Burkina Faso and Côte d'Ivoire,
-2016-2018): Study Sites Information_. DOI: [10.23708/IX5Z7U](https://doi.org/10.23708%2FIX5Z7U).
+al. (2023). _REACT Project (Burkina Faso and Côte d'Ivoire, 2016-2018):
+Study Sites Information_. DOI: [10.23708/IX5Z7U](https://doi.org/10.23708%2FIX5Z7U).
 
-Taconet, P., R. K. Dabiré, and N.
-Moiroux (2023). _Land Use Land Cover Very High Resolution Map (1.5-m) for
-the Area of Diébougou, Burkina Faso, 2018_. DOI: [10.23708/ARSJNB](https://doi.org/10.23708%2FARSJNB).
+Taconet, P., R. K. Dabiré, and N. Moiroux
+(2023). _Land Use Land Cover Very High Resolution Map (1.5-m) for the Area of Diébougou, Burkina Faso, 2018_.
+DOI: [10.23708/ARSJNB](https://doi.org/10.23708%2FARSJNB).
 
 Taconet, P., A. Koffi Amanan, and N.
-Moiroux (2023). _Land Use Land Cover Very High Resolution Map (1.5-m) for
-the Area of Korhogo, Côte d'Ivoire, 2018_. DOI: [10.23708/MTF4S8](https://doi.org/10.23708%2FMTF4S8).
+Moiroux (2023). _Land Use Land Cover Very High Resolution Map (1.5-m) for the
+Area of Korhogo, Côte d'Ivoire, 2018_. DOI: [10.23708/MTF4S8](https://doi.org/10.23708%2FMTF4S8).
 
 Taconet, P., D. D. Soma, B. Zogo, et
 al. (2023). _Data and Code for: Physiological and Behavioural
@@ -117,25 +114,23 @@ Spatiotemporal Heterogeneity, Drivers, and Predictability_. DOI:
 [10.23708/LV8GEW](https://doi.org/10.23708%2FLV8GEW).
 
 Zogo, B., A. A. Koffi, L. P. Ahoua Alou, et
-al. (2020). _Identification et Caractérisation Des
-Gîtes Larvaires d'Anopheles Spp. à Korhogo (Entomologie)_. DOI:
-[10.23708/5ODIWK](https://doi.org/10.23708%2F5ODIWK).
+al. (2020). _Identification et Caractérisation Des Gîtes
+Larvaires d'Anopheles Spp. à Korhogo (Entomologie)_. DOI: [10.23708/5ODIWK](https://doi.org/10.23708%2F5ODIWK).
 
 ## Supports de cours
-Moiroux,
-N. (2023b). _Expansion de Niches Écologiques et Espèces
-Invasives Chez Les Culicidae_. Dakar, Sénégal. DOI:
+Moiroux, N.
+(2023b). _Expansion de Niches Écologiques et Espèces Invasives Chez Les Culicidae_. Dakar, Sénégal. DOI:
 [10.5281/zenodo.20081157](https://doi.org/10.5281%2Fzenodo.20081157).
 
-Moiroux, N.
-(2023a). _Le Concept Unifié d'espèce et Les Culicidae_. Dakar, Sénégal. DOI:
+Moiroux, N. (2023a).
+_Le Concept Unifié d'espèce et Les Culicidae_. Dakar, Sénégal. DOI:
 [10.5281/zenodo.20081586](https://doi.org/10.5281%2Fzenodo.20081586).
 
-Moiroux, N. (2020). _Ecological Niches
-and Vector-Borne Pathogens Transmission_. Lecture. Montpellier (FRA), France. DOI:
+Moiroux, N. (2020). _Ecological Niches and
+Vector-Borne Pathogens Transmission_. Lecture. Montpellier (FRA), France. DOI:
 [10.5281/zenodo.4263280](https://doi.org/10.5281%2Fzenodo.4263280).
 
-Moiroux,
-N. (2019). _Comportement Des Vecteurs, Lutte
-Anti-Vectorielle et Modélisation de La Transmission Entomologique Des Plasmodiums Humains_.
-Bobo-Dioulasso, Burkina Faso. DOI: [10.5281/zenodo.19356147](https://doi.org/10.5281%2Fzenodo.19356147).
+Moiroux, N.
+(2019). _Comportement Des Vecteurs, Lutte Anti-Vectorielle et Modélisation de La Transmission Entomologique Des
+Plasmodiums Humains_. Bobo-Dioulasso, Burkina Faso. DOI:
+[10.5281/zenodo.19356147](https://doi.org/10.5281%2Fzenodo.19356147).
