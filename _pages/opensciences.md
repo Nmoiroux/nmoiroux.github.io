@@ -9,7 +9,7 @@ Cette page rassemble les ressources mises à disposition dans une démarche de s
 - [Packages R](#r-packages)
 - [Applications web](#apps)
 - [Codes et données](#codes-et-données)
-- [Supports de cours](#supports-de-cours)
+- [Supports pédagogiques](#supports-pédagogiques)
 
 
 
@@ -117,7 +117,7 @@ Zogo, B., A. A. Koffi, L. P. Ahoua Alou, et
 al. (2020). _Identification et Caractérisation Des Gîtes
 Larvaires d'Anopheles Spp. à Korhogo (Entomologie)_. DOI: [10.23708/5ODIWK](https://doi.org/10.23708%2F5ODIWK).
 
-## Supports de cours
+## Supports pédagogiques
 Moiroux, N.
 (2023b). _Expansion de Niches Écologiques et Espèces Invasives Chez Les Culicidae_. Dakar, Sénégal. DOI:
 [10.5281/zenodo.20081157](https://doi.org/10.5281%2Fzenodo.20081157).
@@ -134,3 +134,7 @@ Moiroux, N.
 (2019). _Comportement Des Vecteurs, Lutte Anti-Vectorielle et Modélisation de La Transmission Entomologique Des
 Plasmodiums Humains_. Bobo-Dioulasso, Burkina Faso. DOI:
 [10.5281/zenodo.19356147](https://doi.org/10.5281%2Fzenodo.19356147).
+
+Moiroux, N. and P. Taconet (2020). _Theoretical
+Effect of Countries' Population Age Distribution and Social Contact Pattern on an Uncontrolled Covid19
+Epidemic_. url: [https://nmoiroux.github.io/COVID/](https://nmoiroux.github.io/COVID/)

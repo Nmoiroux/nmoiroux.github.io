@@ -9,7 +9,7 @@ Cette page rassemble les ressources mises à disposition dans une démarche de s
 - [Packages R](#r-packages)
 - [Applications web](#apps)
 - [Codes et données](#codes-et-données)
-- [Supports de cours](#supports-de-cours)
+- [Supports pédagogiques](#supports-pédagogiques)
 
 
 ```{r setup, include = FALSE, cache = FALSE}
@@ -74,7 +74,7 @@ txt <- capture.output(PrintBibliography(bib_c,  .opts = list(check.entries = FAL
   
 ```
 
-## Supports de cours
+## Supports pédagogiques
 ```{r results = "asis", echo = FALSE}
 # print
 NoCite(bib_p)
@@ -90,3 +90,7 @@ txt <- capture.output(PrintBibliography(bib_p,  .opts = list(check.entries = FAL
   cat("\n")
   
 ```
+
+Moiroux, N. and P. Taconet (2020). _Theoretical
+Effect of Countries' Population Age Distribution and Social Contact Pattern on an Uncontrolled Covid19
+Epidemic_. url: [https://nmoiroux.github.io/COVID/](https://nmoiroux.github.io/COVID/)
