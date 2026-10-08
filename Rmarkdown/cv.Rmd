@@ -8,7 +8,7 @@ output: github_document
 * [Postes et affectations](#postes-et-affectations)
 * [Animation et Gestion de la Recherche](#animation-et-gestion-de-la-recherche)
 * [Expertises](#expertise)
-* [Directions de thèse](#directions-de-thèse)
+* [Directions de thèses](#directions-de-thèses)
 
 
 ## Formation
