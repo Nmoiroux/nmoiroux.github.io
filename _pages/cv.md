@@ -4,14 +4,14 @@ permalink: /cv/
 output: github_document
 ---
 
-* [Formation](#formation) 
+* [Diplômes](#diplômes) 
 * [Postes et affectations](#postes-et-affectations)
 * [Animation et Gestion de la Recherche](#animation-et-gestion-de-la-recherche)
 * [Expertises](#expertise)
 * [Directions de thèses](#directions-de-thèses)
 
 
-## Formation
+## Diplômes
 * Habilitation à Diriger des Recherches (HDR), [Université de Monpellier](https://www.umontpellier.fr/), France, 2021. [Lien](https://hal.science/tel-03698171v1)
 * Doctorat Biologie et Santé (PhD). Université Montpellier 2, France, 2012. [Lien](https://theses.hal.science/tel-00812118v1)
 * Master Ecologie - spécialité Aménagement du Territoire et Télédétection. [Université Paul Sabatier Toulouse 3](https://www.univ-tlse3.fr/), France, 2006.

@@ -23,8 +23,8 @@ _Mfclim: Download Archived Meteorological Data from 'Meteo-France'_. DOI:
 [10.32614/CRAN.package.mfclim](https://doi.org/10.32614%2FCRAN.package.mfclim).
 
 Moiroux, N., C. Bartholomée, and P.
-Taconet (2026). _ecoXCorr: Lagged Cross-Correlation Analysis
-of Environmental Time Series_. DOI:
+Taconet (2026). _ecoXCorr: Lagged Cross-Correlation Analysis of
+Environmental Time Series_. DOI:
 [10.32614/CRAN.package.ecoXCorr](https://doi.org/10.32614%2FCRAN.package.ecoXCorr).
 
 Moiroux, N. and N.
@@ -58,8 +58,8 @@ Pre-Intervention Period of the REACT Randomized Controled Trial_. DOI:
 
 Moiroux, N., P. Taconet, B. Zogo, et
 al. (2026). _Protocol, Replication Data and Codes for: Effectiveness
-of a Dry Season Larviciding Strategy to Complement Universal Coverage with Long-Lasting Insecticidal Nets
-against Malaria._ DOI: [10.23708/PKVLDK](https://doi.org/10.23708%2FPKVLDK).
+of a Dry Season Larviciding Strategy to Complement Universal Coverage with Long-Lasting Insecticidal Nets against
+Malaria._ DOI: [10.23708/PKVLDK](https://doi.org/10.23708%2FPKVLDK).
 
 Bartholomée, C. and N.
 Moiroux (2025). _Open-Access Code Used to Model Parity Rate
@@ -73,13 +73,13 @@ Modeling Study_. Zenodo. DOI: [10.5281/zenodo.17142100](https://doi.org/10.5281%
 
 Moiroux, N., P. Taconet, D. D. Soma, et
 al. (2025). _Protocol, Replication Data and Codes for: Non-Pyrethroid
-Indoor Residual Spraying or Intensive Behavior Change Communication in Combination with Long-Lasting
-Insecticidal Nets against Malaria Disease in West Africa: A Pragmatic Transnational Cluster-Randomized
-Controlled Trial._ DOI: [10.23708/MZ7KZZ](https://doi.org/10.23708%2FMZ7KZZ).
+Indoor Residual Spraying or Intensive Behavior Change Communication in Combination with Long-Lasting Insecticidal
+Nets against Malaria Disease in West Africa: A Pragmatic Transnational Cluster-Randomized Controlled Trial._ DOI:
+[10.23708/MZ7KZZ](https://doi.org/10.23708%2FMZ7KZZ).
 
 Bartholomée, C., P. Taconet, M. Mercat, et
-al. (2024). _Monthly Mosquito Sampling in Montpellier
-(Occitanie), France, 2023_. DOI: [10.15468/4qafbu](https://doi.org/10.15468%2F4qafbu).
+al. (2024). _Monthly Mosquito Sampling in Montpellier (Occitanie),
+France, 2023_. DOI: [10.15468/4qafbu](https://doi.org/10.15468%2F4qafbu).
 
 Kambou, S. S., A. Valente, P. Agnew, et
 al. (2024). _Replication Data and R Code for: Non-Contact Detection of
@@ -108,10 +108,9 @@ Moiroux (2023). _Land Use Land Cover Very High Resolution Map (1.5-m) for the
 Area of Korhogo, Côte d'Ivoire, 2018_. DOI: [10.23708/MTF4S8](https://doi.org/10.23708%2FMTF4S8).
 
 Taconet, P., D. D. Soma, B. Zogo, et
-al. (2023). _Data and Code for: Physiological and Behavioural
-Resistance of Malaria Vectors in Rural West-Africa: A Data Mining Study to Adress Their Fine-Scale
-Spatiotemporal Heterogeneity, Drivers, and Predictability_. DOI:
-[10.23708/LV8GEW](https://doi.org/10.23708%2FLV8GEW).
+al. (2023). _Data and Code for: Physiological and Behavioural Resistance
+of Malaria Vectors in Rural West-Africa: A Data Mining Study to Adress Their Fine-Scale Spatiotemporal
+Heterogeneity, Drivers, and Predictability_. DOI: [10.23708/LV8GEW](https://doi.org/10.23708%2FLV8GEW).
 
 Zogo, B., A. A. Koffi, L. P. Ahoua Alou, et
 al. (2020). _Identification et Caractérisation Des Gîtes
@@ -122,8 +121,8 @@ Moiroux, N.
 (2023b). _Expansion de Niches Écologiques et Espèces Invasives Chez Les Culicidae_. Dakar, Sénégal. DOI:
 [10.5281/zenodo.20081157](https://doi.org/10.5281%2Fzenodo.20081157).
 
-Moiroux, N. (2023a).
-_Le Concept Unifié d'espèce et Les Culicidae_. Dakar, Sénégal. DOI:
+Moiroux, N. (2023a). _Le
+Concept Unifié d'espèce et Les Culicidae_. Dakar, Sénégal. DOI:
 [10.5281/zenodo.20081586](https://doi.org/10.5281%2Fzenodo.20081586).
 
 Moiroux, N. (2020). _Ecological Niches and

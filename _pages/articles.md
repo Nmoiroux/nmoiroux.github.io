@@ -38,8 +38,7 @@ Albopictus Egg Density: Three Years of Surveillance in Montpellier (France)_. DO
 
 Seck, F., O. Seydi, N. Moiroux, et
 al. (2026). _Eco-Epidemiological Thresholds for Malaria
-Transmission in Multi-Species, Phenotypically Structured Mosquito Populations_.
-https://hal.science/hal-05450492.
+Transmission in Multi-Species, Phenotypically Structured Mosquito Populations_. https://hal.science/hal-05450492.
 
 
 ## Publications revues par les pairs
@@ -47,13 +46,12 @@ https://hal.science/hal-05450492.
 Dongmo, F. J., A. Porciani, N. Moiroux, et
 al. (2026). "Modelling the Impact of Ivermectin-Based Optimal
 Strategies on Malaria Control: The Role of Formulation, Coverage, and Mosquitocidal Efficacy Timing". In:
-_eBioMedicine_ 127, p. 106278. DOI:
-[10.1016/j.ebiom.2026.106278](https://doi.org/10.1016%2Fj.ebiom.2026.106278).
+_eBioMedicine_ 127, p. 106278. DOI: [10.1016/j.ebiom.2026.106278](https://doi.org/10.1016%2Fj.ebiom.2026.106278).
 
 Pennetier, C., B. Zogo, B. N. Tchiekoi, et
 al. (2026). "Effectiveness of a Dry Season Larviciding Strategy to
-Complement Universal Coverage with Long-Lasting Insecticidal Nets against Malaria: A Pragmatic Cluster
-Randomised Controlled Trial in Côte d'Ivoire". In: _The Lancet Regional Health - Africa_. DOI:
+Complement Universal Coverage with Long-Lasting Insecticidal Nets against Malaria: A Pragmatic Cluster Randomised
+Controlled Trial in Côte d'Ivoire". In: _The Lancet Regional Health - Africa_. DOI:
 [10.1016/j.lanafr.2026.100085](https://doi.org/10.1016%2Fj.lanafr.2026.100085).
 
 Pooda, S. H., A. M. Bandaogo, P. A. Agboho, et
@@ -81,8 +79,7 @@ for humans and animals: a scoping review". In: _Peer Community Journal_ 5. DOI:
 
 Moiroux, N. and C.
 Pennetier (2025). "The potential of attractive
-insecticide-treated nets (ITNs) in reducing malaria transmission: a modeling study". In: _Peer Community
-Journal_ 5. DOI: [10.24072/pcjournal.632](https://doi.org/10.24072%2Fpcjournal.632).
+insecticide-treated nets (ITNs) in reducing malaria transmission: a modeling study". In: _Peer Community Journal_5. DOI: [10.24072/pcjournal.632](https://doi.org/10.24072%2Fpcjournal.632).
 
 Moiroux, N., I. Zongo, S. Assi, et
 al. (2025). "Efficacy of Non-Pyrethroid Indoor Residual Spraying
@@ -108,8 +105,8 @@ in Vector Control by Anopheles Mosquitoes". In: _PloS One_ 19.7, p. e0298512. DO
 
 Pooda, S. H., D. F. d. S. Hien, S. Pagabeleguem, et
 al. (2024). "Impact of Blood Meals Taken on Ivermectin-Treated Livestock on
-Survival and Egg Production of the Malaria Vector Anopheles Coluzzii under Laboratory Conditions". In: _PloS
-One_ 19.8, p. e0308293. DOI: [10.1371/journal.pone.0308293](https://doi.org/10.1371%2Fjournal.pone.0308293).
+Survival and Egg Production of the Malaria Vector Anopheles Coluzzii under Laboratory Conditions". In: _PloS One_
+19.8, p. e0308293. DOI: [10.1371/journal.pone.0308293](https://doi.org/10.1371%2Fjournal.pone.0308293).
 
 Taconet, P. and N. Moiroux (2024). "Modisfast: An R Package for
 Fast and Efficient Access to MODIS, VIIRS and GPM Earth Observation Data". In: _Journal of Open Source Software_
@@ -122,21 +119,21 @@ heterogeneity, drivers, and predictability". In: _Peer Community Journal_ 4. DOI
 [10.24072/pcjournal.367](https://doi.org/10.24072%2Fpcjournal.367).
 
 Taconet, P., B. Zogo, L. P. A. Alou, et
-al. (2024). "Landscape and Meteorological Determinants
-of Malaria Vectors' Presence and Abundance in the Rural Health District of Korhogo, Côte d'Ivoire, 2016-2018,
-and Comparison with the Less Anthropized Area of Diébougou, Burkina Faso". In: _PLOS ONE_ 19.10, p. e0312132.
-DOI: [10.1371/journal.pone.0312132](https://doi.org/10.1371%2Fjournal.pone.0312132).
+al. (2024). "Landscape and Meteorological Determinants of
+Malaria Vectors' Presence and Abundance in the Rural Health District of Korhogo, Côte d'Ivoire, 2016-2018, and
+Comparison with the Less Anthropized Area of Diébougou, Burkina Faso". In: _PLOS ONE_ 19.10, p. e0312132. DOI:
+[10.1371/journal.pone.0312132](https://doi.org/10.1371%2Fjournal.pone.0312132).
 
 ### 2023 
 Bationo, C., M. Cissoko, A. Katilé, et
 al. (2023). "Malaria in Burkina Faso: A Comprehensive Analysis of
-Spatiotemporal Distribution of Incidence and Environmental Drivers, and Implications for Control Strategies".
-In: _PLOS ONE_ 18.9, p. e0290233. DOI:
+Spatiotemporal Distribution of Incidence and Environmental Drivers, and Implications for Control Strategies". In:
+_PLOS ONE_ 18.9, p. e0290233. DOI:
 [10.1371/journal.pone.0290233](https://doi.org/10.1371%2Fjournal.pone.0290233).
 
 Dahoui, M. M. C., K. A. Adou, B. Coulibaly, et
-al. (2023). "Entomological Drivers of Uneven Malaria Transmission
-in Urban Lowland Areas in Bouaké, Côte d'Ivoire". In: _Malaria Journal_ 22.1, p. 34. DOI:
+al. (2023). "Entomological Drivers of Uneven Malaria Transmission in
+Urban Lowland Areas in Bouaké, Côte d'Ivoire". In: _Malaria Journal_ 22.1, p. 34. DOI:
 [10.1186/s12936-023-04457-x](https://doi.org/10.1186%2Fs12936-023-04457-x).
 
 Djènontin, A., D. Alfa, A. Bouraima, et
@@ -152,8 +149,8 @@ Infectivity from Naturally Infected Gametocyte Carriers". In: _BMC Infectious Di
 
 Pooda, S. H., N. Moiroux, A. Porciani, et
 al. (2023). "Proof-of-Concept Study for a Long-Acting Formulation
-of Ivermectin Injected in Cattle as a Complementary Malaria Vector Control Tool". In: _Parasites & Vectors_
-16.1, p. 66. DOI: [10.1186/s13071-022-05621-z](https://doi.org/10.1186%2Fs13071-022-05621-z).
+of Ivermectin Injected in Cattle as a Complementary Malaria Vector Control Tool". In: _Parasites & Vectors_ 16.1,
+p. 66. DOI: [10.1186/s13071-022-05621-z](https://doi.org/10.1186%2Fs13071-022-05621-z).
 
 Taconet, P., B. Zogo, D. D. Soma, et
 al. (2023). "Anopheles Sampling Collections in the Health
@@ -186,8 +183,8 @@ In: _Scientific Reports_ 11.1, p. 20027. DOI:
 
 Clegban, C. Y., S. Camara, A. A. Koffi, et
 al. (2021). "Evaluation of Yahe® and Panda® 2.0 Long-Lasting Insecticidal
-Nets against Wild Pyrethroid-Resistant Anopheles Gambiae s.l. from Côte d'Ivoire: An Experimental Hut Trial".
-In: _Parasites & Vectors_ 14.1, p. 347. DOI:
+Nets against Wild Pyrethroid-Resistant Anopheles Gambiae s.l. from Côte d'Ivoire: An Experimental Hut Trial". In:
+_Parasites & Vectors_ 14.1, p. 347. DOI:
 [10.1186/s13071-021-04843-x](https://doi.org/10.1186%2Fs13071-021-04843-x).
 
 Diop, M. M., F. Chandre, M. Rossignol, et
@@ -197,8 +194,8 @@ Efficiency of Kdr-Resistant Anopheles Gambiae". In: _Peer Community Journal_ 1. 
 
 Soma, D. D., S. B. Poda, A. S. Hien, et
 al. (2021). "Malaria Vectors Diversity, Insecticide Resistance and
-Transmission during the Rainy Season in Peri-Urban Villages of South-Western Burkina Faso". In: _Malaria
-Journal_ 20.1, p. 63. DOI: [10.1186/s12936-020-03554-5](https://doi.org/10.1186%2Fs12936-020-03554-5).
+Transmission during the Rainy Season in Peri-Urban Villages of South-Western Burkina Faso". In: _Malaria Journal_
+20.1, p. 63. DOI: [10.1186/s12936-020-03554-5](https://doi.org/10.1186%2Fs12936-020-03554-5).
 
 Soma, D. D., B. Zogo, D. F. d. S. Hien, et
 al. (2021). "Insecticide Resistance Status of Malaria Vectors
@@ -207,21 +204,21 @@ Microencapsulated Pirimiphos-Methyl Insecticide". In: _Parasites & Vectors_ 14.1
 [10.1186/s13071-020-04563-8](https://doi.org/10.1186%2Fs13071-020-04563-8).
 
 Soma, D. D., B. Zogo, P. Taconet, et
-al. (2021). "Quantifying and Characterizing Hourly Human
-Exposure to Malaria Vectors Bites to Address Residual Malaria Transmission during Dry and Rainy Seasons in Rural
-Southwest Burkina Faso". In: _BMC Public Health_ 21.1, p. 251. DOI:
+al. (2021). "Quantifying and Characterizing Hourly Human Exposure
+to Malaria Vectors Bites to Address Residual Malaria Transmission during Dry and Rainy Seasons in Rural Southwest
+Burkina Faso". In: _BMC Public Health_ 21.1, p. 251. DOI:
 [10.1186/s12889-021-10304-y](https://doi.org/10.1186%2Fs12889-021-10304-y).
 
 Taconet, P., A. Porciani, D. D. Soma, et
 al. (2021). "Data-Driven and Interpretable
-Machine-Learning Modeling to Explore the Fine-Scale Environmental Determinants of Malaria Vectors Biting Rates
-in Rural Burkina Faso". In: _Parasites & Vectors_ 14.1, p. 345. DOI:
+Machine-Learning Modeling to Explore the Fine-Scale Environmental Determinants of Malaria Vectors Biting Rates in
+Rural Burkina Faso". In: _Parasites & Vectors_ 14.1, p. 345. DOI:
 [10.1186/s13071-021-04851-x](https://doi.org/10.1186%2Fs13071-021-04851-x).
 
 Traoré, A. S., A. Porciani, N. Moiroux, et
 al. (2021). "Effects of Insemination and Blood-Feeding on
-Locomotor Activity of Wild-Derived Females of the Malaria Mosquito Anopheles Coluzzii". In: _Parasites &
-Vectors_ 14.1, p. 457. DOI: [10.1186/s13071-021-04967-0](https://doi.org/10.1186%2Fs13071-021-04967-0).
+Locomotor Activity of Wild-Derived Females of the Malaria Mosquito Anopheles Coluzzii". In: _Parasites & Vectors_
+14.1, p. 457. DOI: [10.1186/s13071-021-04967-0](https://doi.org/10.1186%2Fs13071-021-04967-0).
 
 ### 2020 
 Diop, M. M., F. Chandre, M. Rossignol, et
@@ -269,9 +266,8 @@ Anopheles Gambiae". In: _Malaria Journal_ 18.1, p. 55. DOI:
 
 ### 2018 
 Djènontin, A., N. Moiroux, A. Bouraïma, et
-al. (2018). "Field Efficacy of a New Deltamethrin Long Lasting
-Insecticidal Net (LifeNet) against Wild Pyrethroid-Resistant Anopheles Gambiae in Benin". In: _BMC public
-health_ 18.1, p. 947. DOI: [10.1186/s12889-018-5876-9](https://doi.org/10.1186%2Fs12889-018-5876-9).
+al. (2018). "Field Efficacy of a New Deltamethrin Long Lasting Insecticidal
+Net (LifeNet) against Wild Pyrethroid-Resistant Anopheles Gambiae in Benin". In: _BMC public health_ 18.1, p.947. DOI: [10.1186/s12889-018-5876-9](https://doi.org/10.1186%2Fs12889-018-5876-9).
 
 Moiroux, N., A. Djènontin, B. Zogo, et
 al. (2018). "Small-Scale Field Testing of Alpha-Cypermethrin
@@ -314,8 +310,9 @@ Behavior and Personal Protection Provided by Long-Lasting Insecticidal Nets". In
 DOI: [10.1371/journal.pone.0104967](https://doi.org/10.1371%2Fjournal.pone.0104967).
 
 Moiroux, N., A. Djènontin, A. S. Bio-Bangana, et
-al. (2014). "Spatio-Temporal Analysis of Abundances of
-Three Malaria Vector Species in Southern Benin Using Zero-Truncated Models". In: _Parasites & Vectors_ 7, p.103. DOI: [10.1186/1756-3305-7-103](https://doi.org/10.1186%2F1756-3305-7-103).
+al. (2014). "Spatio-Temporal Analysis of Abundances of Three
+Malaria Vector Species in Southern Benin Using Zero-Truncated Models". In: _Parasites & Vectors_ 7, p. 103. DOI:
+[10.1186/1756-3305-7-103](https://doi.org/10.1186%2F1756-3305-7-103).
 
 ### 2013 
 Assogba, B. S., L. Djogbénou, J. Saizonou, et
@@ -329,8 +326,8 @@ Vector Control Area in Southern Benin, West Africa." In: _Parasit Vectors_ 6.1, 
 [10.1186/1756-3305-6-71](https://doi.org/10.1186%2F1756-3305-6-71).
 
 Moiroux, N., C. Pennetier, and V.
-Corbel (2013). "Behavioral Adaptation of Malaria Vectors to
-LLINs: A Reply". In: _The Journal of Infectious Diseases_ 207.7, pp. 1184-5. DOI:
+Corbel (2013). "Behavioral Adaptation of Malaria Vectors to LLINs:
+A Reply". In: _The Journal of Infectious Diseases_ 207.7, pp. 1184-5. DOI:
 [10.1093/infdis/jit012](https://doi.org/10.1093%2Finfdis%2Fjit012).
 
 ### 2012 
@@ -346,8 +343,8 @@ Pyrethroid Resistance Area in Benin: A Cluster Randomised Controlled Trial". In:
 
 Elanga Ndille, E., S. Doucoure, G. Damien, et
 al. (2012). "First Attempt To Validate Human IgG Antibody Response
-to Nterm-34kDa Salivary Peptide as Biomarker for Evaluating Exposure to Aedes Aegypti Bites". In: _PLoS Negl
-Trop Dis_ 6.11, p. e1905. DOI: [10.1371/journal.pntd.0001905](https://doi.org/10.1371%2Fjournal.pntd.0001905).
+to Nterm-34kDa Salivary Peptide as Biomarker for Evaluating Exposure to Aedes Aegypti Bites". In: _PLoS Negl Trop
+Dis_ 6.11, p. e1905. DOI: [10.1371/journal.pntd.0001905](https://doi.org/10.1371%2Fjournal.pntd.0001905).
 
 Moiroux, N., O. Boussari, A. Djènontin, et
 al. (2012). "Dry Season Determinants of Malaria Disease and Net Use in
@@ -361,8 +358,8 @@ Universal Coverage of Long-Lasting Insecticidal Nets in Benin". In: _J Infect Di
 
 Sandeu, M. M., A. Moussiliou, N. Moiroux, et
 al. (2012). "Optimized Pan-Species and Speciation Duplex
-Real-Time PCR Assays for Plasmodium Parasites Detection in Malaria Vectors". In: _PLoS One_ 7.12, p. e52719.
-DOI: [10.1371/journal.pone.0052719](https://doi.org/10.1371%2Fjournal.pone.0052719).
+Real-Time PCR Assays for Plasmodium Parasites Detection in Malaria Vectors". In: _PLoS One_ 7.12, p. e52719. DOI:
+[10.1371/journal.pone.0052719](https://doi.org/10.1371%2Fjournal.pone.0052719).
 
 ### 2011 
 Ranson, H., R. N'Guessan, J. Lines, et
@@ -378,7 +375,7 @@ Pre-Intervention Study". In: _Parasit Vectors_ 3.1, p. 83. DOI:
 [10.1186/1756-3305-3-83](https://doi.org/10.1186%2F1756-3305-3-83).
 
 Yadouleton, A. W., G. Padonou, A. Asidi, et
-al. (2010). "Insecticide Resistance Status in Anopheles
-Gambiae in Southern Benin". In: _Malar J_ 9.1, p. 83. DOI:
+al. (2010). "Insecticide Resistance Status in Anopheles Gambiae
+in Southern Benin". In: _Malar J_ 9.1, p. 83. DOI:
 [10.1186/1475-2875-9-83](https://doi.org/10.1186%2F1475-2875-9-83).
 
